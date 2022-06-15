@@ -19,8 +19,8 @@ python3 -m pip install .
 
 # clone our repo
 cd ../
-git clone https://github.com/kaustubhsridhar/GRF.git
-cd GRF
+git clone https://github.com/sticky-mittens/gfootball.git
+cd gfootball
 ```
 
 * DOCKER
@@ -41,8 +41,8 @@ pip3 install torch torchvision torchaudio
 
 # clone our repo inside docker container
 cd ../
-git clone https://github.com/kaustubhsridhar/GRF.git
-cd GRF
+git clone https://github.com/sticky-mittens/gfootball.git
+cd gfootball
 ```
 
 # Our Code
