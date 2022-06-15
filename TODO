@@ -1,0 +1,40 @@
+freq of backprop (10 steps every 10 or 20 or 50 episodes)
+gamma of 0.95ish for hard, lr increase for hard (or small), bigger network for hard?
+
+
+
+
+more reward for earlier goals (not later goals) (another way to get that is to reduce discounting)
+
+DONE) inc gamma (0.8^50 is low), make it 0.99 (maybe inc timeout but maybe dont disturb this thing which works)
+DONE) learn every 10 or 15 steps (or every 10 or 15 eps???????) [Better] [Do like HER]
+ 
+remove 0's and go back to orig if above doesnt work (MAYBEEEEEEEEEEEEEE)
+
+
+To stabilize:
+    target update with tau*critic + (1-tau)*critic_target (look at pytorch)
+    buffer size for osciallations
+    exploring too much!
+    remove and see dist to goal reward ()
+    learning rate, batch size and discount for oscillations!!!!!!!!
+    only train on episodes that give good rewards/goals scored (reward clipping) in the beginning and after some time just train or everything 9slowly phase it out
+    network size for oscillations
+
+
+
+ ) use demos of 0/1 and above goal diff (or preferably run baseline and accept transitions if goal diff 0/1 and above within code)
+ ) look at videos at train time
+ ) prevent offside properly when passing
+ ) stop own goal properly
+ ) improve defense option template
+
+DONE) use multiple steps
+DONE) use right reward, no need to peanlize for goal lost; attack is about keeping ball, moving to goal and shoot (penalize for lost ball)
+?) reduce gamma
+
+DONE BUT REPEAT CHECK) discounted rewards, see magnitude 
+DONE BUT REPEAT CHECK) check critic loss (if its going down)
+DONE BUT REPEAT CHECK) look at videos of first few (hundred?) to check above
+DONE BUT REPEAT CHECK) randomly, as a fraction, listen to nn and otherwise listen to baseline (whole ep to baseline or nn) 
+    (do this instead of behaviour cloning; and if you do behaviour cloning use smaller/careful fraction)

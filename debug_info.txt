@@ -1,0 +1,628 @@
+==> Playing in 11_vs_11_easy_stochastic.
+==>Level 2
+==>OTs in this level are dict_keys(['attack', 'defend'])
+==>Currently learning attack
+==>using device cuda
+==>critic has 5 layers and 500 hidden units.
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+goal_identified
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose charge_goal
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose maintain_ball_possession
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+2) defend_ terminated and popped
+2) win_game chose attack
+2) attack pushed to stack
+2) attack being learnt
+
+2) attack while learning, chose just_shoot
+2) attack learnt until termination and popped
+2) win_game chose defend
+2) defend pushed to stack
+2) defend chose defend_
+2) defend_ executed
+=== ep: 0, time 24.57598900794983, eps 0.9, sum reward: 1, score_diff 1, tot learning steps 10 (total env steps 3001)

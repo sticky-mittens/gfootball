@@ -1,0 +1,2121 @@
+==> Playing in 11_vs_11_hard_stochastic.
+==>Level 1
+==>OTs in this level are dict_keys(['win_game'])
+==>Currently learning win_game
+==>using device cuda
+==>critic has 2 layers and 3 hidden units.
+=== ep: 0, time 26.803342819213867, eps 0.9, right preds for atk and def: 93/183 = 0.5081967213114754, score_diff 0, tot learning steps 10 (total env steps 3001)
+goal_identified
+goal_identified
+=== ep: 1, time 27.143163681030273, eps 0.8561552526261419, right preds for atk and def: 81/207 = 0.391304347826087, score_diff 2, tot learning steps 10 (total env steps 3001)
+goal_identified
+goal_identified
+=== ep: 2, time 28.108865976333618, eps 0.8144488388143276, right preds for atk and def: 96/198 = 0.48484848484848486, score_diff 1, tot learning steps 10 (total env steps 3001)
+=== ep: 3, time 28.10875415802002, eps 0.774776470806127, right preds for atk and def: 49/77 = 0.6363636363636364, score_diff 0, tot learning steps 10 (total env steps 3001)
+=== ep: 4, time 28.52706003189087, eps 0.7370389470171057, right preds for atk and def: 82/170 = 0.4823529411764706, score_diff -3, tot learning steps 10 (total env steps 3001)
+goal_identified
+=== ep: 5, time 28.582720041275024, eps 0.701141903981193, right preds for atk and def: 63/156 = 0.40384615384615385, score_diff 0, tot learning steps 10 (total env steps 3001)
+=== ep: 6, time 28.679561614990234, eps 0.6669955803928644, right preds for atk and def: 57/106 = 0.5377358490566038, score_diff -2, tot learning steps 10 (total env steps 3001)
+=== ep: 7, time 29.7361319065094, eps 0.6345145926571234, right preds for atk and def: 91/190 = 0.4789473684210526, score_diff -2, tot learning steps 10 (total env steps 3001)
+=== ep: 8, time 33.844806432724, eps 0.6036177213860398, right preds for atk and def: 68/140 = 0.4857142857142857, score_diff 0, tot learning steps 10 (total env steps 3001)
+goal_identified
+goal_identified
+=== ep: 9, time 30.411919832229614, eps 0.5742277083079742, right preds for atk and def: 82/168 = 0.4880952380952381, score_diff 1, tot learning steps 10 (total env steps 3001)
+goal_identified
+=== ep: 10, time 30.99508833885193, eps 0.5462710630816575, right preds for atk and def: 71/161 = 0.4409937888198758, score_diff -1, tot learning steps 10 (total env steps 3001)
+goal_identified
+=== ep: 11, time 31.323004484176636, eps 0.5196778795320575, right preds for atk and def: 82/196 = 0.41836734693877553, score_diff -2, tot learning steps 10 (total env steps 3001)
+goal_identified
+goal_identified
+=== ep: 12, time 31.710856676101685, eps 0.49438166084852986, right preds for atk and def: 81/207 = 0.391304347826087, score_diff 1, tot learning steps 10 (total env steps 3001)
+goal_identified
+goal_identified
+=== ep: 13, time 34.715092182159424, eps 0.47031915330815344, right preds for atk and def: 76/193 = 0.39378238341968913, score_diff 2, tot learning steps 10 (total env steps 3001)
+=== ep: 14, time 37.19121551513672, eps 0.4474301881084772, right preds for atk and def: 65/148 = 0.4391891891891892, score_diff -1, tot learning steps 10 (total env steps 3001)
+goal_identified
+=== ep: 15, time 38.387397050857544, eps 0.42565753091417224, right preds for atk and def: 84/240 = 0.35, score_diff 0, tot learning steps 10 (total env steps 3001)
+goal_identified
+=== ep: 16, time 36.72013306617737, eps 0.4049467387413822, right preds for atk and def: 80/186 = 0.43010752688172044, score_diff -1, tot learning steps 10 (total env steps 3001)
+=== ep: 17, time 36.568586111068726, eps 0.3852460238219053, right preds for atk and def: 85/248 = 0.34274193548387094, score_diff -2, tot learning steps 10 (total env steps 3001)
+=== ep: 18, time 36.05458164215088, eps 0.3665061241067986, right preds for atk and def: 67/207 = 0.32367149758454106, score_diff 0, tot learning steps 10 (total env steps 3001)
+goal_identified
+=== ep: 19, time 36.93903207778931, eps 0.3486801800855966, right preds for atk and def: 55/170 = 0.3235294117647059, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 19
+goal_identified
+=== ep: 20, time 40.446897983551025, eps 0.3317236176131267, right preds for atk and def: 76/89 = 0.8539325842696629, score_diff 0, tot learning steps 10 (total env steps 3001)
+/home/ksridhar/GRF/scripts/policies.py:457: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  plt.figure()
+== current size of memory is eps 21 > 20 and we are deleting ep 18
+goal_identified
+=== ep: 21, time 41.66255855560303, eps 0.31559403645092865, right preds for atk and def: 99/125 = 0.792, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 17
+=== ep: 22, time 36.8028609752655, eps 0.3002511042445735, right preds for atk and def: 79/87 = 0.9080459770114943, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 15
+goal_identified
+=== ep: 23, time 33.76982808113098, eps 0.2856564556717689, right preds for atk and def: 68/83 = 0.8192771084337349, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 1
+=== ep: 24, time 37.000784158706665, eps 0.27177359650906974, right preds for atk and def: 91/111 = 0.8198198198198198, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 12
+=== ep: 25, time 38.394752740859985, eps 0.2585678123773109, right preds for atk and def: 87/102 = 0.8529411764705882, score_diff -6, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 13
+goal_identified
+=== ep: 26, time 32.648539304733276, eps 0.24600608193757734, right preds for atk and def: 101/115 = 0.8782608695652174, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 5
+goal_identified
+=== ep: 27, time 32.8760941028595, eps 0.23405699432065646, right preds for atk and def: 100/114 = 0.8771929824561403, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 11
+goal_identified
+=== ep: 28, time 34.99253463745117, eps 0.22269067058350425, right preds for atk and def: 97/107 = 0.9065420560747663, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 16
+goal_identified
+=== ep: 29, time 36.379074573516846, eps 0.2118786889963241, right preds for atk and def: 69/78 = 0.8846153846153846, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 14
+goal_identified
+=== ep: 30, time 36.630388259887695, eps 0.2015940139734384, right preds for atk and def: 84/94 = 0.8936170212765957, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 10
+goal_identified
+=== ep: 31, time 32.02272152900696, eps 0.191810928470242, right preds for atk and def: 69/74 = 0.9324324324324325, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 7
+=== ep: 32, time 35.766276836395264, eps 0.1825049696771952, right preds for atk and def: 88/101 = 0.8712871287128713, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 4
+goal_identified
+goal_identified
+=== ep: 33, time 37.207804679870605, eps 0.17365286785005798, right preds for atk and def: 107/115 = 0.9304347826086956, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 2
+=== ep: 34, time 30.405701160430908, eps 0.16523248812340846, right preds for atk and def: 82/89 = 0.9213483146067416, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 8
+=== ep: 35, time 34.54211378097534, eps 0.15722277516195018, right preds for atk and def: 92/97 = 0.9484536082474226, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 9
+=== ep: 36, time 30.207114219665527, eps 0.1496037005112063, right preds for atk and def: 107/110 = 0.9727272727272728, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 0
+goal_identified
+goal_identified
+goal_identified
+=== ep: 37, time 32.76144504547119, eps 0.14235621251595124, right preds for atk and def: 77/86 = 0.8953488372093024, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 6
+goal_identified
+=== ep: 38, time 38.43616008758545, eps 0.13546218868114893, right preds for atk and def: 77/83 = 0.927710843373494, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 3
+=== ep: 39, time 30.938929796218872, eps 0.1289043903562757, right preds for atk and def: 65/67 = 0.9701492537313433, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 21
+=== ep: 40, time 34.362311601638794, eps 0.12266641962971482, right preds for atk and def: 67/74 = 0.9054054054054054, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 23
+=== ep: 41, time 31.09461784362793, eps 0.116732678325436, right preds for atk and def: 76/80 = 0.95, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 24
+goal_identified
+goal_identified
+=== ep: 42, time 36.23311805725098, eps 0.11108832899943073, right preds for atk and def: 70/72 = 0.9722222222222222, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 25
+goal_identified
+=== ep: 43, time 34.321889877319336, eps 0.10571925783837377, right preds for atk and def: 90/97 = 0.9278350515463918, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 20
+=== ep: 44, time 31.74619197845459, eps 0.10061203936773815, right preds for atk and def: 79/82 = 0.9634146341463414, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 32
+=== ep: 45, time 34.06653308868408, eps 0.09575390288111604, right preds for atk and def: 103/108 = 0.9537037037037037, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 27
+=== ep: 46, time 34.12849020957947, eps 0.09113270050680057, right preds for atk and def: 65/66 = 0.9848484848484849, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 26
+=== ep: 47, time 33.43849158287048, eps 0.08673687683177911, right preds for atk and def: 89/91 = 0.978021978021978, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 29
+goal_identified
+=== ep: 48, time 33.70766234397888, eps 0.08255544000718185, right preds for atk and def: 95/98 = 0.9693877551020408, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 30
+=== ep: 49, time 30.80670189857483, eps 0.07857793426293408, right preds for atk and def: 92/96 = 0.9583333333333334, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 37
+=== ep: 50, time 33.40004849433899, eps 0.07479441376288502, right preds for atk and def: 103/109 = 0.944954128440367, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 40
+goal_identified
+goal_identified
+=== ep: 51, time 33.22757315635681, eps 0.0711954177350367, right preds for atk and def: 69/72 = 0.9583333333333334, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 28
+=== ep: 52, time 37.67374324798584, eps 0.06777194681468615, right preds for atk and def: 68/69 = 0.9855072463768116, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 22
+=== ep: 53, time 32.81579375267029, eps 0.06451544054132621, right preds for atk and def: 93/97 = 0.9587628865979382, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 34
+goal_identified
+=== ep: 54, time 29.761226415634155, eps 0.06141775595303503, right preds for atk and def: 58/62 = 0.9354838709677419, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 38
+=== ep: 55, time 37.044514179229736, eps 0.05847114722483011, right preds for atk and def: 87/93 = 0.9354838709677419, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 43
+=== ep: 56, time 29.539766788482666, eps 0.05566824630007096, right preds for atk and def: 93/97 = 0.9587628865979382, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 33
+=== ep: 57, time 32.83665466308594, eps 0.05300204446647978, right preds for atk and def: 85/86 = 0.9883720930232558, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 31
+goal_identified
+=== ep: 58, time 30.009690046310425, eps 0.050465874830710106, right preds for atk and def: 74/79 = 0.9367088607594937, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 54
+goal_identified
+goal_identified
+=== ep: 59, time 32.93106293678284, eps 0.04805339564764071, right preds for atk and def: 69/72 = 0.9583333333333334, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 55
+goal_identified
+goal_identified
+goal_identified
+=== ep: 60, time 31.48725175857544, eps 0.045758574462709686, right preds for atk and def: 79/80 = 0.9875, score_diff 3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 58
+=== ep: 61, time 35.18174457550049, eps 0.043575673027635695, right preds for atk and def: 89/91 = 0.978021978021978, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 50
+goal_identified
+=== ep: 62, time 37.14841413497925, eps 0.04149923295180846, right preds for atk and def: 69/72 = 0.9583333333333334, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 35
+=== ep: 63, time 31.122954845428467, eps 0.03952406205346913, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 41
+=== ep: 64, time 34.72167682647705, eps 0.03764522137655123, right preds for atk and def: 117/119 = 0.9831932773109243, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 45
+goal_identified
+=== ep: 65, time 30.523690938949585, eps 0.03585801284071809, right preds for atk and def: 83/85 = 0.9764705882352941, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 49
+goal_identified
+goal_identified
+goal_identified
+=== ep: 66, time 33.274887561798096, eps 0.034157967493714775, right preds for atk and def: 91/92 = 0.9891304347826086, score_diff 3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 51
+goal_identified
+=== ep: 67, time 30.598517656326294, eps 0.03254083433665968, right preds for atk and def: 90/91 = 0.989010989010989, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 59
+goal_identified
+goal_identified
+=== ep: 68, time 33.456578493118286, eps 0.031002569694333147, right preds for atk and def: 100/102 = 0.9803921568627451, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 62
+=== ep: 69, time 30.165051460266113, eps 0.02953932710388308, right preds for atk and def: 95/96 = 0.9895833333333334, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 53
+=== ep: 70, time 33.74255084991455, eps 0.028147447696664333, right preds for atk and def: 77/80 = 0.9625, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 56
+=== ep: 71, time 35.41726589202881, eps 0.026823451049161253, right preds for atk and def: 82/83 = 0.9879518072289156, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 70
+=== ep: 72, time 40.430699825286865, eps 0.025564026480116013, right preds for atk and def: 78/79 = 0.9873417721518988, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 44
+goal_identified
+goal_identified
+=== ep: 73, time 29.936704874038696, eps 0.02436602477210106, right preds for atk and def: 83/84 = 0.9880952380952381, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 48
+goal_identified
+=== ep: 74, time 32.611772537231445, eps 0.02322645029683511, right preds for atk and def: 75/76 = 0.9868421052631579, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 39
+goal_identified
+=== ep: 75, time 29.297253608703613, eps 0.02214245352455219, right preds for atk and def: 76/77 = 0.987012987012987, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 42
+=== ep: 76, time 31.829047203063965, eps 0.02111132389869288, right preds for atk and def: 80/81 = 0.9876543209876543, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 36
+goal_identified
+=== ep: 77, time 29.834922552108765, eps 0.020130483058101077, right preds for atk and def: 103/103 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 65
+=== ep: 78, time 32.38692879676819, eps 0.019197478389778148, right preds for atk and def: 94/94 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 47
+goal_identified
+goal_identified
+=== ep: 79, time 30.01694393157959, eps 0.018309976896072843, right preds for atk and def: 108/110 = 0.9818181818181818, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 61
+=== ep: 80, time 32.176361322402954, eps 0.017465759360972027, right preds for atk and def: 80/81 = 0.9876543209876543, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 68
+=== ep: 81, time 31.94932460784912, eps 0.01666271480090467, right preds for atk and def: 80/80 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 79
+=== ep: 82, time 38.93855404853821, eps 0.015898835186183367, right preds for atk and def: 90/90 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 64
+=== ep: 83, time 31.927353858947754, eps 0.015172210419884185, right preds for atk and def: 89/89 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 46
+=== ep: 84, time 31.750130891799927, eps 0.014481023561609456, right preds for atk and def: 69/69 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 52
+goal_identified
+=== ep: 85, time 29.897202491760254, eps 0.01382354628419033, right preds for atk and def: 105/106 = 0.9905660377358491, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 74
+goal_identified
+=== ep: 86, time 31.94699740409851, eps 0.013198134551968641, right preds for atk and def: 119/119 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 75
+goal_identified
+goal_identified
+=== ep: 87, time 30.039687633514404, eps 0.012603224509851407, right preds for atk and def: 99/99 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 72
+=== ep: 88, time 31.91235113143921, eps 0.012037328572858524, right preds for atk and def: 75/75 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 60
+=== ep: 89, time 29.63738441467285, eps 0.011499031706385502, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 76
+goal_identified
+=== ep: 90, time 32.4422664642334, eps 0.010986987887879832, right preds for atk and def: 87/87 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 80
+=== ep: 91, time 32.749589920043945, eps 0.010499916741083536, right preds for atk and def: 109/109 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 71
+goal_identified
+=== ep: 92, time 35.7951238155365, eps 0.010036600334425595, right preds for atk and def: 103/104 = 0.9903846153846154, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 73
+=== ep: 93, time 33.65359449386597, eps 0.00959588013555861, right preds for atk and def: 56/56 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 57
+goal_identified
+=== ep: 94, time 32.3733184337616, eps 0.009176654114424539, right preds for atk and def: 84/84 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 67
+goal_identified
+=== ep: 95, time 30.557769536972046, eps 0.00877787398760545, right preds for atk and def: 90/90 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 66
+goal_identified
+=== ep: 96, time 32.12329173088074, eps 0.008398542597069007, right preds for atk and def: 97/98 = 0.9897959183673469, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 69
+goal_identified
+goal_identified
+=== ep: 97, time 32.09051489830017, eps 0.008037711416753971, right preds for atk and def: 69/69 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 96
+=== ep: 98, time 32.24479413032532, eps 0.00769447818076098, right preds for atk and def: 94/94 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 92
+=== ep: 99, time 32.67344427108765, eps 0.007367984627217855, right preds for atk and def: 102/103 = 0.9902912621359223, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 99
+=== ep: 100, time 34.583332538604736, eps 0.007057414352177835, right preds for atk and def: 77/77 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 85
+=== ep: 101, time 32.35464811325073, eps 0.006761990768184489, right preds for atk and def: 67/68 = 0.9852941176470589, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 101
+goal_identified
+goal_identified
+=== ep: 102, time 29.64423894882202, eps 0.006480975162398559, right preds for atk and def: 70/70 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 63
+=== ep: 103, time 36.90636420249939, eps 0.006213664849431085, right preds for atk and def: 107/108 = 0.9907407407407407, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 103
+goal_identified
+=== ep: 104, time 35.60020136833191, eps 0.005959391414263934, right preds for atk and def: 71/71 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 77
+goal_identified
+goal_identified
+=== ep: 105, time 31.52791452407837, eps 0.005717519040864065, right preds for atk and def: 87/87 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 78
+=== ep: 106, time 31.971349716186523, eps 0.005487442922312285, right preds for atk and def: 97/98 = 0.9897959183673469, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 106
+goal_identified
+=== ep: 107, time 29.732900142669678, eps 0.005268587748470919, right preds for atk and def: 63/63 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 81
+=== ep: 108, time 31.79092025756836, eps 0.005060406267408787, right preds for atk and def: 77/78 = 0.9871794871794872, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 108
+goal_identified
+=== ep: 109, time 30.23139500617981, eps 0.004862377916986354, right preds for atk and def: 106/106 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 82
+goal_identified
+=== ep: 110, time 36.301546573638916, eps 0.004674007523179196, right preds for atk and def: 93/94 = 0.9893617021276596, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 110
+goal_identified
+=== ep: 111, time 29.720799684524536, eps 0.004494824061885041, right preds for atk and def: 69/69 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 83
+goal_identified
+=== ep: 112, time 32.62196660041809, eps 0.0043243794811181555, right preds for atk and def: 114/115 = 0.991304347826087, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 112
+goal_identified
+=== ep: 113, time 30.779882431030273, eps 0.0041622475806460035, right preds for atk and def: 61/61 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 84
+goal_identified
+=== ep: 114, time 34.530277967453, eps 0.0040080229462666735, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 86
+=== ep: 115, time 35.29084491729736, eps 0.0038613199360621906, right preds for atk and def: 90/91 = 0.989010989010989, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 115
+goal_identified
+=== ep: 116, time 29.837786197662354, eps 0.003721771716092858, right preds for atk and def: 97/97 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 87
+=== ep: 117, time 31.89164400100708, eps 0.0035890293431213305, right preds for atk and def: 51/51 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 88
+=== ep: 118, time 29.62073826789856, eps 0.0034627608920727634, right preds for atk and def: 64/64 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 89
+goal_identified
+=== ep: 119, time 31.848632097244263, eps 0.00334265062604924, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 90
+goal_identified
+=== ep: 120, time 35.14516353607178, eps 0.0032283982068230565, right preds for atk and def: 97/98 = 0.9897959183673469, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 120
+=== ep: 121, time 31.335960149765015, eps 0.0031197179438347193, right preds for atk and def: 76/77 = 0.987012987012987, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 121
+=== ep: 122, time 32.27385711669922, eps 0.0030163380798177374, right preds for atk and def: 83/83 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 91
+=== ep: 123, time 30.787339448928833, eps 0.0029180001112638996, right preds for atk and def: 77/77 = 1.0, score_diff -4, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 93
+=== ep: 124, time 32.140817165374756, eps 0.002824458142029865, right preds for atk and def: 75/76 = 0.9868421052631579, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 124
+=== ep: 125, time 32.07032799720764, eps 0.0027354782684687108, right preds for atk and def: 89/89 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 94
+=== ep: 126, time 33.77910375595093, eps 0.0026508379945489875, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 95
+=== ep: 127, time 29.915006399154663, eps 0.0025703256754987464, right preds for atk and def: 103/103 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 97
+=== ep: 128, time 31.964707374572754, eps 0.0024937399885833667, right preds for atk and def: 103/103 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 98
+goal_identified
+goal_identified
+=== ep: 129, time 35.1399507522583, eps 0.0024208894296938593, right preds for atk and def: 101/101 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 100
+=== ep: 130, time 32.30864882469177, eps 0.0023515918344868374, right preds for atk and def: 91/92 = 0.9891304347826086, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 130
+=== ep: 131, time 32.604857444763184, eps 0.002285673922878779, right preds for atk and def: 64/64 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 102
+goal_identified
+=== ep: 132, time 30.73022437095642, eps 0.0022229708657555565, right preds for atk and def: 86/86 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 104
+=== ep: 133, time 32.03178906440735, eps 0.0021633258728137976, right preds for atk and def: 82/82 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 105
+=== ep: 134, time 29.326335668563843, eps 0.0021065898005034594, right preds for atk and def: 71/71 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 107
+=== ep: 135, time 35.21488118171692, eps 0.002052620779091266, right preds for atk and def: 120/120 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 109
+=== ep: 136, time 32.01737451553345, eps 0.0020012838579124784, right preds for atk and def: 81/81 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 111
+goal_identified
+=== ep: 137, time 31.904417514801025, eps 0.0019524506679239415, right preds for atk and def: 81/82 = 0.9878048780487805, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 137
+=== ep: 138, time 32.22794818878174, eps 0.001905999100714611, right preds for atk and def: 85/85 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 113
+goal_identified
+goal_identified
+=== ep: 139, time 35.25319027900696, eps 0.001861813003170924, right preds for atk and def: 61/61 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 114
+=== ep: 140, time 34.2391881942749, eps 0.0018197818870335101, right preds for atk and def: 80/80 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 116
+goal_identified
+=== ep: 141, time 29.969412803649902, eps 0.0017798006526189953, right preds for atk and def: 83/83 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 117
+goal_identified
+=== ep: 142, time 32.22862482070923, eps 0.0017417693260160481, right preds for atk and def: 81/81 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 118
+goal_identified
+=== ep: 143, time 32.32897925376892, eps 0.0017055928090985275, right preds for atk and def: 61/61 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 119
+=== ep: 144, time 30.434831142425537, eps 0.0016711806417306348, right preds for atk and def: 99/99 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 122
+goal_identified
+goal_identified
+=== ep: 145, time 32.41491198539734, eps 0.0016384467755694515, right preds for atk and def: 91/91 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 123
+=== ep: 146, time 35.49271488189697, eps 0.0016073093588992661, right preds for atk and def: 88/88 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 125
+goal_identified
+=== ep: 147, time 31.393906354904175, eps 0.0015776905319596466, right preds for atk and def: 78/78 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 126
+=== ep: 148, time 32.74463415145874, eps 0.0015495162322554856, right preds for atk and def: 80/81 = 0.9876543209876543, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 148
+goal_identified
+=== ep: 149, time 34.598397970199585, eps 0.0015227160093621863, right preds for atk and def: 73/73 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 127
+=== ep: 150, time 32.294684171676636, eps 0.0014972228487629025, right preds for atk and def: 71/71 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 128
+goal_identified
+goal_identified
+=== ep: 151, time 32.73643898963928, eps 0.0014729730042773413, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 129
+=== ep: 152, time 29.93496584892273, eps 0.001449905838663109, right preds for atk and def: 100/100 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 131
+goal_identified
+goal_identified
+=== ep: 153, time 33.81100845336914, eps 0.00142796367199102, right preds for atk and def: 108/108 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 132
+goal_identified
+goal_identified
+=== ep: 154, time 33.25345420837402, eps 0.0014070916374152305, right preds for atk and def: 79/79 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 133
+=== ep: 155, time 32.581751346588135, eps 0.001387237543977543, right preds for atk and def: 79/79 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 134
+goal_identified
+goal_identified
+=== ep: 156, time 37.05964779853821, eps 0.0013683517461028282, right preds for atk and def: 71/71 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 135
+=== ep: 157, time 37.839844942092896, eps 0.0013503870194592265, right preds for atk and def: 77/77 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 136
+=== ep: 158, time 34.21314287185669, eps 0.0013332984428727204, right preds for atk and def: 103/103 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 138
+=== ep: 159, time 37.271618127822876, eps 0.001317043286000802, right preds for atk and def: 71/71 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 139
+goal_identified
+goal_identified
+=== ep: 160, time 30.232277154922485, eps 0.0013015809024843582, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 140
+goal_identified
+goal_identified
+=== ep: 161, time 33.11548447608948, eps 0.0012868726283106018, right preds for atk and def: 69/69 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 141
+=== ep: 162, time 32.67376136779785, eps 0.0012728816851329014, right preds for atk and def: 109/109 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 142
+=== ep: 163, time 30.502641439437866, eps 0.0012595730883057546, right preds for atk and def: 73/73 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 143
+=== ep: 164, time 32.57081842422485, eps 0.001246913559404956, right preds for atk and def: 98/98 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 144
+=== ep: 165, time 32.41598653793335, eps 0.0012348714430141991, right preds for atk and def: 79/79 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 145
+=== ep: 166, time 35.328333139419556, eps 0.0012234166275700486, right preds for atk and def: 63/63 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 146
+=== ep: 167, time 36.14495086669922, eps 0.001212520470067348, right preds for atk and def: 109/109 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 147
+=== ep: 168, time 36.15951657295227, eps 0.0012021557244367845, right preds for atk and def: 94/94 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 149
+=== ep: 169, time 30.4436457157135, eps 0.0011922964734155277, right preds for atk and def: 104/105 = 0.9904761904761905, score_diff -4, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 169
+goal_identified
+=== ep: 170, time 32.245518922805786, eps 0.001182918063740569, right preds for atk and def: 90/90 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 150
+=== ep: 171, time 32.0332407951355, eps 0.0011739970445027263, right preds for atk and def: 60/60 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 151
+=== ep: 172, time 30.357488870620728, eps 0.0011655111085071537, right preds for atk and def: 98/98 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 152
+=== ep: 173, time 32.38173484802246, eps 0.001157439036493735, right preds for atk and def: 77/77 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 153
+=== ep: 174, time 32.34677290916443, eps 0.0011497606440778825, right preds for atk and def: 67/67 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 154
+goal_identified
+=== ep: 175, time 31.575788974761963, eps 0.0011424567312790603, right preds for atk and def: 67/67 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 155
+goal_identified
+=== ep: 176, time 32.6325261592865, eps 0.0011355090345108335, right preds for atk and def: 97/97 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 156
+=== ep: 177, time 33.12109398841858, eps 0.0011289001809123877, right preds for atk and def: 89/89 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 157
+goal_identified
+goal_identified
+=== ep: 178, time 39.40036106109619, eps 0.0011226136449073282, right preds for atk and def: 121/121 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 158
+goal_identified
+=== ep: 179, time 35.035664558410645, eps 0.001116633706881133, right preds for atk and def: 92/92 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 159
+goal_identified
+goal_identified
+goal_identified
+=== ep: 180, time 31.660475254058838, eps 0.001110945413873925, right preds for atk and def: 89/89 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 160
+=== ep: 181, time 33.37859535217285, eps 0.001105534542190287, right preds for atk and def: 68/68 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 161
+goal_identified
+=== ep: 182, time 33.99985861778259, eps 0.0011003875618326132, right preds for atk and def: 71/71 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 162
+goal_identified
+=== ep: 183, time 31.312347888946533, eps 0.0010954916026690664, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 163
+goal_identified
+goal_identified
+=== ep: 184, time 34.38091516494751, eps 0.001090834422251547, right preds for atk and def: 73/73 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 164
+goal_identified
+=== ep: 185, time 34.893826723098755, eps 0.0010864043752031938, right preds for atk and def: 74/74 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 165
+=== ep: 186, time 31.506291151046753, eps 0.0010821903840988777, right preds for atk and def: 87/87 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 166
+goal_identified
+goal_identified
+=== ep: 187, time 37.08551025390625, eps 0.0010781819117658682, right preds for atk and def: 79/79 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 167
+=== ep: 188, time 39.684770584106445, eps 0.0010743689349354123, right preds for atk and def: 76/76 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 168
+=== ep: 189, time 38.65566825866699, eps 0.0010707419191793434, right preds for atk and def: 77/77 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 170
+=== ep: 190, time 33.08356285095215, eps 0.0010672917950690429, right preds for atk and def: 101/101 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 171
+goal_identified
+=== ep: 191, time 32.79386806488037, eps 0.0010640099354971456, right preds for atk and def: 90/90 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 172
+goal_identified
+=== ep: 192, time 31.624720096588135, eps 0.0010608881341052777, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 173
+goal_identified
+=== ep: 193, time 32.73888635635376, eps 0.0010579185847638855, right preds for atk and def: 109/109 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 174
+goal_identified
+=== ep: 194, time 32.40731453895569, eps 0.0010550938620528466, right preds for atk and def: 94/94 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 175
+=== ep: 195, time 31.142505884170532, eps 0.001052406902694051, right preds for atk and def: 66/66 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 176
+goal_identified
+=== ep: 196, time 32.688103914260864, eps 0.001049850987889527, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 177
+=== ep: 197, time 32.66998887062073, eps 0.0010474197265209469, right preds for atk and def: 92/92 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 178
+=== ep: 198, time 37.27863335609436, eps 0.0010451070391685015, right preds for atk and def: 80/80 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 179
+=== ep: 199, time 35.76872658729553, eps 0.001042907142909185, right preds for atk and def: 100/100 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 180
+goal_identified
+=== ep: 200, time 33.49414539337158, eps 0.001040814536856474, right preds for atk and def: 129/130 = 0.9923076923076923, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 200
+=== ep: 201, time 33.00124979019165, eps 0.0010388239884052469, right preds for atk and def: 77/77 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 181
+=== ep: 202, time 29.833046436309814, eps 0.0010369305201475454, right preds for atk and def: 75/75 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 182
+goal_identified
+=== ep: 203, time 33.54321050643921, eps 0.0010351293974264616, right preds for atk and def: 91/91 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 183
+goal_identified
+=== ep: 204, time 34.45897197723389, eps 0.00103341611649703, right preds for atk and def: 120/120 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 184
+goal_identified
+goal_identified
+goal_identified
+=== ep: 205, time 31.703959465026855, eps 0.0010317863932645186, right preds for atk and def: 81/81 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 185
+goal_identified
+=== ep: 206, time 34.68594241142273, eps 0.0010302361525719613, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 186
+=== ep: 207, time 35.21377754211426, eps 0.0010287615180101426, right preds for atk and def: 82/82 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 187
+=== ep: 208, time 38.532830238342285, eps 0.001027358802224555, right preds for atk and def: 88/88 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 188
+goal_identified
+=== ep: 209, time 36.27689003944397, eps 0.0010260244976950921, right preds for atk and def: 88/88 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 189
+=== ep: 210, time 34.38082814216614, eps 0.0010247552679654227, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 190
+goal_identified
+=== ep: 211, time 31.119590997695923, eps 0.00102354793930011, right preds for atk and def: 104/104 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 191
+=== ep: 212, time 32.72054409980774, eps 0.0010223994927486214, right preds for atk and def: 89/89 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 192
+=== ep: 213, time 32.724873542785645, eps 0.001021307056596379, right preds for atk and def: 95/95 = 1.0, score_diff -4, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 193
+=== ep: 214, time 31.02020239830017, eps 0.0010202678991839778, right preds for atk and def: 92/92 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 194
+goal_identified
+goal_identified
+=== ep: 215, time 32.60150361061096, eps 0.0010192794220766138, right preds for atk and def: 88/88 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 195
+goal_identified
+goal_identified
+=== ep: 216, time 32.55070734024048, eps 0.0010183391535666436, right preds for atk and def: 97/97 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 196
+=== ep: 217, time 30.56824541091919, eps 0.0010174447424930286, right preds for atk and def: 75/75 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 197
+=== ep: 218, time 37.865023374557495, eps 0.0010165939523622068, right preds for atk and def: 71/71 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 198
+goal_identified
+=== ep: 219, time 37.315205574035645, eps 0.0010157846557556941, right preds for atk and def: 69/69 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 199
+=== ep: 220, time 38.18651008605957, eps 0.001015014829010431, right preds for atk and def: 88/88 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 201
+=== ep: 221, time 31.93750309944153, eps 0.0010142825471585687, right preds for atk and def: 54/54 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 202
+=== ep: 222, time 34.922029972076416, eps 0.0010135859791140496, right preds for atk and def: 84/84 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 203
+goal_identified
+=== ep: 223, time 34.704368591308594, eps 0.0010129233830939361, right preds for atk and def: 101/101 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 204
+goal_identified
+goal_identified
+=== ep: 224, time 30.325161933898926, eps 0.0010122931022630473, right preds for atk and def: 75/75 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 205
+goal_identified
+=== ep: 225, time 32.848731994628906, eps 0.001011693560591007, right preds for atk and def: 92/92 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 206
+=== ep: 226, time 32.914855003356934, eps 0.0010111232589113477, right preds for atk and def: 82/82 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 207
+goal_identified
+=== ep: 227, time 31.477131128311157, eps 0.0010105807711728136, right preds for atk and def: 68/68 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 208
+=== ep: 228, time 32.824278354644775, eps 0.0010100647408734893, right preds for atk and def: 93/93 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 209
+goal_identified
+=== ep: 229, time 34.139333724975586, eps 0.001009573877668838, right preds for atk and def: 71/71 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 210
+=== ep: 230, time 34.302024841308594, eps 0.001009106954145169, right preds for atk and def: 75/75 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 211
+goal_identified
+=== ep: 231, time 31.527456045150757, eps 0.0010086628027504636, right preds for atk and def: 84/84 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 212
+=== ep: 232, time 30.948903799057007, eps 0.0010082403128748867, right preds for atk and def: 55/55 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 213
+goal_identified
+goal_identified
+=== ep: 233, time 30.763437747955322, eps 0.0010078384280736842, right preds for atk and def: 100/100 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 214
+=== ep: 234, time 29.08180284500122, eps 0.001007456143425521, right preds for atk and def: 77/77 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 215
+goal_identified
+=== ep: 235, time 30.23191738128662, eps 0.001007092503019653, right preds for atk and def: 77/77 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 216
+=== ep: 236, time 30.643335580825806, eps 0.001006746597565654, right preds for atk and def: 106/106 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 217
+=== ep: 237, time 31.31471300125122, eps 0.001006417562119715, right preds for atk and def: 77/77 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 218
+=== ep: 238, time 31.96475338935852, eps 0.0010061045739218342, right preds for atk and def: 90/90 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 219
+=== ep: 239, time 30.9340603351593, eps 0.0010058068503384884, right preds for atk and def: 65/65 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 220
+goal_identified
+=== ep: 240, time 31.246816396713257, eps 0.001005523646905642, right preds for atk and def: 91/91 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 221
+=== ep: 241, time 34.260427951812744, eps 0.001005254255467199, right preds for atk and def: 97/97 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 222
+=== ep: 242, time 33.86127185821533, eps 0.0010049980024042435, right preds for atk and def: 84/84 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 223
+goal_identified
+goal_identified
+=== ep: 243, time 30.636017084121704, eps 0.0010047542469506416, right preds for atk and def: 93/93 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 224
+=== ep: 244, time 30.273845911026, eps 0.0010045223795907931, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 225
+=== ep: 245, time 31.0867178440094, eps 0.001004301820535524, right preds for atk and def: 77/77 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 226
+goal_identified
+=== ep: 246, time 30.773519039154053, eps 0.0010040920182723119, right preds for atk and def: 109/109 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 227
+goal_identified
+goal_identified
+=== ep: 247, time 29.376988649368286, eps 0.0010038924481862177, right preds for atk and def: 59/59 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 228
+goal_identified
+goal_identified
+=== ep: 248, time 34.826817750930786, eps 0.0010037026112480747, right preds for atk and def: 87/87 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 229
+=== ep: 249, time 31.48049783706665, eps 0.0010035220327666559, right preds for atk and def: 112/112 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 230
+goal_identified
+goal_identified
+=== ep: 250, time 29.707943439483643, eps 0.0010033502612016988, right preds for atk and def: 63/63 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 231
+goal_identified
+goal_identified
+=== ep: 251, time 32.3233323097229, eps 0.001003186867034819, right preds for atk and def: 103/103 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 232
+goal_identified
+goal_identified
+=== ep: 252, time 34.77149939537048, eps 0.001003031441695491, right preds for atk and def: 115/115 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 233
+goal_identified
+=== ep: 253, time 34.692692279815674, eps 0.0010028835965394094, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 234
+goal_identified
+=== ep: 254, time 29.249815940856934, eps 0.0010027429618766747, right preds for atk and def: 89/89 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 235
+goal_identified
+=== ep: 255, time 31.446247577667236, eps 0.0010026091860473767, right preds for atk and def: 81/81 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 236
+goal_identified
+=== ep: 256, time 31.086508989334106, eps 0.0010024819345422614, right preds for atk and def: 73/74 = 0.9864864864864865, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 256
+=== ep: 257, time 29.36698269844055, eps 0.0010023608891662839, right preds for atk and def: 79/79 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 237
+=== ep: 258, time 35.78631925582886, eps 0.001002245747242954, right preds for atk and def: 77/77 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 238
+goal_identified
+=== ep: 259, time 31.55445885658264, eps 0.0010021362208574892, right preds for atk and def: 93/93 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 239
+=== ep: 260, time 31.758540868759155, eps 0.001002032036136876, right preds for atk and def: 91/91 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 240
+goal_identified
+goal_identified
+=== ep: 261, time 29.442826986312866, eps 0.0010019329325650452, right preds for atk and def: 91/91 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 241
+goal_identified
+goal_identified
+=== ep: 262, time 32.11674880981445, eps 0.0010018386623314465, right preds for atk and def: 78/78 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 242
+=== ep: 263, time 35.20271396636963, eps 0.0010017489897113931, right preds for atk and def: 93/93 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 243
+goal_identified
+=== ep: 264, time 31.578324556350708, eps 0.0010016636904766263, right preds for atk and def: 65/65 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 244
+=== ep: 265, time 31.143382787704468, eps 0.0010015825513346283, right preds for atk and def: 65/65 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 245
+=== ep: 266, time 32.00731301307678, eps 0.0010015053693952815, right preds for atk and def: 107/107 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 246
+=== ep: 267, time 32.28471875190735, eps 0.0010014319516635345, right preds for atk and def: 101/101 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 247
+goal_identified
+=== ep: 268, time 32.17179584503174, eps 0.0010013621145568167, right preds for atk and def: 96/96 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 248
+=== ep: 269, time 32.021628618240356, eps 0.0010012956834459848, right preds for atk and def: 86/86 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 249
+goal_identified
+=== ep: 270, time 32.03027391433716, eps 0.0010012324922186594, right preds for atk and def: 86/86 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 250
+=== ep: 271, time 28.860301971435547, eps 0.001001172382863857, right preds for atk and def: 94/94 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 251
+=== ep: 272, time 31.49594521522522, eps 0.0010011152050768812, right preds for atk and def: 87/87 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 252
+goal_identified
+goal_identified
+=== ep: 273, time 31.881293773651123, eps 0.0010010608158834819, right preds for atk and def: 109/109 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 253
+goal_identified
+=== ep: 274, time 34.94374346733093, eps 0.0010010090792823456, right preds for atk and def: 79/79 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 254
+goal_identified
+=== ep: 275, time 31.68386173248291, eps 0.0010009598659050213, right preds for atk and def: 98/99 = 0.98989898989899, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 275
+goal_identified
+goal_identified
+=== ep: 276, time 32.532848834991455, eps 0.0010009130526924313, right preds for atk and def: 106/106 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 255
+=== ep: 277, time 32.32877016067505, eps 0.0010008685225871602, right preds for atk and def: 67/67 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 257
+goal_identified
+goal_identified
+=== ep: 278, time 30.99298357963562, eps 0.0010008261642407504, right preds for atk and def: 100/100 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 258
+goal_identified
+goal_identified
+=== ep: 279, time 31.95172119140625, eps 0.001000785871735272, right preds for atk and def: 79/79 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 259
+goal_identified
+=== ep: 280, time 32.29942750930786, eps 0.0010007475443184742, right preds for atk and def: 84/84 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 260
+goal_identified
+=== ep: 281, time 31.632307291030884, eps 0.001000711086151851, right preds for atk and def: 80/80 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 261
+=== ep: 282, time 29.497106313705444, eps 0.0010006764060709957, right preds for atk and def: 123/123 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 262
+=== ep: 283, time 32.661596059799194, eps 0.001000643417357642, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 263
+=== ep: 284, time 33.21625900268555, eps 0.0010006120375228235, right preds for atk and def: 107/107 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 264
+goal_identified
+=== ep: 285, time 32.08211708068848, eps 0.0010005821881006083, right preds for atk and def: 69/69 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 265
+=== ep: 286, time 35.980782985687256, eps 0.0010005537944518927, right preds for atk and def: 101/101 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 266
+goal_identified
+=== ep: 287, time 36.59409856796265, eps 0.0010005267855777657, right preds for atk and def: 75/75 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 267
+goal_identified
+=== ep: 288, time 32.18720841407776, eps 0.0010005010939419733, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 268
+=== ep: 289, time 29.489298820495605, eps 0.001000476655302044, right preds for atk and def: 99/99 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 269
+goal_identified
+=== ep: 290, time 34.06246256828308, eps 0.0010004534085486486, right preds for atk and def: 91/91 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 270
+goal_identified
+=== ep: 291, time 33.856844425201416, eps 0.0010004312955527947, right preds for atk and def: 84/84 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 271
+goal_identified
+=== ep: 292, time 30.421345233917236, eps 0.0010004102610204745, right preds for atk and def: 78/78 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 272
+=== ep: 293, time 33.84965896606445, eps 0.0010003902523544011, right preds for atk and def: 103/103 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 273
+goal_identified
+=== ep: 294, time 35.55452632904053, eps 0.0010003712195224871, right preds for atk and def: 84/84 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 274
+goal_identified
+=== ep: 295, time 31.48395013809204, eps 0.0010003531149327387, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 276
+=== ep: 296, time 37.19650053977966, eps 0.0010003358933142518, right preds for atk and def: 105/105 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 277
+goal_identified
+=== ep: 297, time 40.76499605178833, eps 0.0010003195116040093, right preds for atk and def: 94/94 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 278
+goal_identified
+goal_identified
+goal_identified
+=== ep: 298, time 33.33631992340088, eps 0.0010003039288392032, right preds for atk and def: 105/105 = 1.0, score_diff 3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 279
+=== ep: 299, time 29.527310371398926, eps 0.0010002891060548044, right preds for atk and def: 86/86 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 280
+=== ep: 300, time 32.5861918926239, eps 0.0010002750061861312, right preds for atk and def: 67/67 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 281
+goal_identified
+goal_identified
+=== ep: 301, time 32.6457793712616, eps 0.0010002615939761676, right preds for atk and def: 81/81 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 282
+goal_identified
+=== ep: 302, time 32.283100605010986, eps 0.001000248835887403, right preds for atk and def: 76/76 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 283
+=== ep: 303, time 29.687426567077637, eps 0.0010002367000179694, right preds for atk and def: 80/80 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 284
+goal_identified
+=== ep: 304, time 31.868524312973022, eps 0.0010002251560218723, right preds for atk and def: 77/77 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 285
+=== ep: 305, time 32.20264148712158, eps 0.0010002141750331084, right preds for atk and def: 121/121 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 286
+=== ep: 306, time 28.80153489112854, eps 0.0010002037295934862, right preds for atk and def: 86/86 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 287
+=== ep: 307, time 38.41010308265686, eps 0.0010001937935839656, right preds for atk and def: 112/112 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 288
+goal_identified
+=== ep: 308, time 35.96827816963196, eps 0.0010001843421593476, right preds for atk and def: 95/95 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 289
+=== ep: 309, time 35.01558303833008, eps 0.0010001753516861473, right preds for atk and def: 71/71 = 1.0, score_diff -5, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 290
+=== ep: 310, time 30.929033756256104, eps 0.0010001667996834991, right preds for atk and def: 101/101 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 291
+=== ep: 311, time 32.757182359695435, eps 0.001000158664766942, right preds for atk and def: 91/91 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 292
+goal_identified
+=== ep: 312, time 31.867539644241333, eps 0.0010001509265949466, right preds for atk and def: 88/88 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 293
+=== ep: 313, time 31.78510808944702, eps 0.001000143565818053, right preds for atk and def: 87/87 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 294
+=== ep: 314, time 29.57990574836731, eps 0.0010001365640304844, right preds for atk and def: 76/76 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 295
+=== ep: 315, time 31.711437225341797, eps 0.0010001299037241253, right preds for atk and def: 77/77 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 296
+=== ep: 316, time 32.385672092437744, eps 0.0010001235682447402, right preds for atk and def: 108/108 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 297
+=== ep: 317, time 35.82851028442383, eps 0.0010001175417503308, right preds for atk and def: 81/81 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 298
+goal_identified
+=== ep: 318, time 32.65718460083008, eps 0.0010001118091715218, right preds for atk and def: 102/102 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 299
+=== ep: 319, time 32.72326612472534, eps 0.0010001063561738807, right preds for atk and def: 88/88 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 300
+goal_identified
+=== ep: 320, time 34.984790325164795, eps 0.0010001011691220727, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 301
+=== ep: 321, time 31.709546089172363, eps 0.0010000962350457665, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 302
+goal_identified
+=== ep: 322, time 31.786150455474854, eps 0.0010000915416072012, right preds for atk and def: 91/91 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 303
+goal_identified
+goal_identified
+=== ep: 323, time 29.70885944366455, eps 0.0010000870770703358, right preds for atk and def: 79/79 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 304
+=== ep: 324, time 32.29865384101868, eps 0.0010000828302715028, right preds for atk and def: 99/99 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 305
+goal_identified
+=== ep: 325, time 31.973389387130737, eps 0.0010000787905914928, right preds for atk and def: 83/83 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 306
+=== ep: 326, time 31.73835802078247, eps 0.0010000749479290019, right preds for atk and def: 68/68 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 307
+=== ep: 327, time 31.194866180419922, eps 0.001000071292675372, right preds for atk and def: 88/88 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 308
+=== ep: 328, time 31.86885142326355, eps 0.001000067815690565, right preds for atk and def: 63/63 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 309
+goal_identified
+=== ep: 329, time 31.883482933044434, eps 0.0010000645082803084, right preds for atk and def: 92/93 = 0.989247311827957, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 329
+=== ep: 330, time 36.29310631752014, eps 0.0010000613621743532, right preds for atk and def: 112/112 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 310
+goal_identified
+=== ep: 331, time 32.449662923812866, eps 0.0010000583695057963, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 311
+=== ep: 332, time 32.7798547744751, eps 0.0010000555227914069, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 312
+=== ep: 333, time 32.615556716918945, eps 0.0010000528149129166, right preds for atk and def: 77/77 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 313
+goal_identified
+=== ep: 334, time 33.12716031074524, eps 0.0010000502390992187, right preds for atk and def: 95/95 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 314
+=== ep: 335, time 30.909223318099976, eps 0.0010000477889094373, right preds for atk and def: 106/106 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 315
+=== ep: 336, time 35.90636897087097, eps 0.0010000454582168217, right preds for atk and def: 106/106 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 316
+goal_identified
+goal_identified
+=== ep: 337, time 33.35302495956421, eps 0.001000043241193426, right preds for atk and def: 69/69 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 317
+goal_identified
+=== ep: 338, time 34.340625524520874, eps 0.0010000411322955373, right preds for atk and def: 89/89 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 318
+goal_identified
+=== ep: 339, time 29.937113046646118, eps 0.0010000391262498123, right preds for atk and def: 70/70 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 319
+goal_identified
+=== ep: 340, time 32.77424168586731, eps 0.001000037218040092, right preds for atk and def: 93/93 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 320
+=== ep: 341, time 36.03740382194519, eps 0.0010000354028948577, right preds for atk and def: 93/93 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 321
+=== ep: 342, time 36.10036492347717, eps 0.0010000336762753012, right preds for atk and def: 83/83 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 322
+goal_identified
+=== ep: 343, time 31.432584285736084, eps 0.001000032033863974, right preds for atk and def: 105/105 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 323
+=== ep: 344, time 31.51784110069275, eps 0.0010000304715539925, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 324
+=== ep: 345, time 35.45656204223633, eps 0.001000028985438768, right preds for atk and def: 60/60 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 325
+=== ep: 346, time 32.1329710483551, eps 0.001000027571802238, right preds for atk and def: 88/88 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 326
+goal_identified
+=== ep: 347, time 31.648499250411987, eps 0.0010000262271095755, right preds for atk and def: 79/79 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 327
+goal_identified
+=== ep: 348, time 29.479002237319946, eps 0.0010000249479983478, right preds for atk and def: 83/83 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 328
+=== ep: 349, time 32.08382821083069, eps 0.0010000237312701107, right preds for atk and def: 73/73 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 330
+=== ep: 350, time 31.29547953605652, eps 0.00100002257388241, right preds for atk and def: 77/77 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 331
+goal_identified
+=== ep: 351, time 31.36431360244751, eps 0.0010000214729411737, right preds for atk and def: 67/67 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 332
+goal_identified
+=== ep: 352, time 31.326393604278564, eps 0.0010000204256934752, right preds for atk and def: 79/79 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 333
+=== ep: 353, time 33.97794556617737, eps 0.0010000194295206493, right preds for atk and def: 107/107 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 334
+goal_identified
+=== ep: 354, time 34.855414390563965, eps 0.0010000184819317455, right preds for atk and def: 105/105 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 335
+=== ep: 355, time 34.932469606399536, eps 0.001000017580557298, right preds for atk and def: 76/76 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 336
+=== ep: 356, time 29.992958068847656, eps 0.001000016723143401, right preds for atk and def: 79/79 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 337
+=== ep: 357, time 31.181750059127808, eps 0.0010000159075460732, right preds for atk and def: 85/85 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 338
+=== ep: 358, time 31.326184272766113, eps 0.0010000151317258964, right preds for atk and def: 81/81 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 339
+goal_identified
+goal_identified
+=== ep: 359, time 31.680366277694702, eps 0.0010000143937429161, right preds for atk and def: 109/109 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 340
+=== ep: 360, time 29.34446907043457, eps 0.0010000136917517905, right preds for atk and def: 80/80 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 341
+=== ep: 361, time 31.7562472820282, eps 0.001000013023997176, right preds for atk and def: 79/79 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 342
+=== ep: 362, time 31.20299506187439, eps 0.0010000123888093385, right preds for atk and def: 63/64 = 0.984375, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 362
+=== ep: 363, time 32.162113666534424, eps 0.0010000117845999773, right preds for atk and def: 75/75 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 343
+goal_identified
+=== ep: 364, time 31.29649567604065, eps 0.0010000112098582543, right preds for atk and def: 93/93 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 344
+goal_identified
+=== ep: 365, time 37.99718713760376, eps 0.001000010663147016, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 345
+goal_identified
+goal_identified
+=== ep: 366, time 32.01549220085144, eps 0.0010000101430991996, right preds for atk and def: 90/90 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 346
+=== ep: 367, time 31.40291690826416, eps 0.0010000096484144142, right preds for atk and def: 70/70 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 347
+goal_identified
+=== ep: 368, time 31.650636196136475, eps 0.0010000091778556905, right preds for atk and def: 89/89 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 348
+goal_identified
+=== ep: 369, time 29.505291223526, eps 0.0010000087302463867, right preds for atk and def: 94/94 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 349
+=== ep: 370, time 31.71102476119995, eps 0.001000008304467246, right preds for atk and def: 86/86 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 350
+=== ep: 371, time 31.110252618789673, eps 0.0010000078994535993, right preds for atk and def: 73/73 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 351
+goal_identified
+=== ep: 372, time 31.3545560836792, eps 0.0010000075141927012, right preds for atk and def: 70/70 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 352
+=== ep: 373, time 29.846099376678467, eps 0.0010000071477211988, right preds for atk and def: 81/81 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 353
+goal_identified
+=== ep: 374, time 31.749506950378418, eps 0.0010000067991227223, right preds for atk and def: 85/85 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 354
+goal_identified
+=== ep: 375, time 39.195539236068726, eps 0.0010000064675255943, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 355
+=== ep: 376, time 35.62629961967468, eps 0.001000006152100649, right preds for atk and def: 87/87 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 356
+=== ep: 377, time 29.82068157196045, eps 0.0010000058520591598, right preds for atk and def: 74/74 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 357
+goal_identified
+goal_identified
+=== ep: 378, time 31.843267679214478, eps 0.0010000055666508666, right preds for atk and def: 91/91 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 358
+goal_identified
+=== ep: 379, time 32.63505411148071, eps 0.0010000052951621003, right preds for atk and def: 75/75 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 359
+=== ep: 380, time 33.022449016571045, eps 0.0010000050369139975, right preds for atk and def: 79/79 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 360
+goal_identified
+=== ep: 381, time 30.41572618484497, eps 0.001000004791260803, right preds for atk and def: 79/79 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 361
+=== ep: 382, time 34.76591920852661, eps 0.0010000045575882562, right preds for atk and def: 55/55 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 363
+goal_identified
+goal_identified
+=== ep: 383, time 33.43868160247803, eps 0.001000004335312054, right preds for atk and def: 101/101 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 364
+=== ep: 384, time 34.39922118186951, eps 0.0010000041238763903, right preds for atk and def: 79/79 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 365
+goal_identified
+=== ep: 385, time 33.585284948349, eps 0.0010000039227525655, right preds for atk and def: 87/87 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 366
+goal_identified
+=== ep: 386, time 36.970505714416504, eps 0.0010000037314376652, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 367
+goal_identified
+goal_identified
+=== ep: 387, time 37.083385705947876, eps 0.001000003549453303, right preds for atk and def: 103/103 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 368
+=== ep: 388, time 32.59649658203125, eps 0.0010000033763444226, right preds for atk and def: 97/97 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 369
+=== ep: 389, time 32.79933309555054, eps 0.001000003211678162, right preds for atk and def: 82/82 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 370
+=== ep: 390, time 30.041483640670776, eps 0.0010000030550427698, right preds for atk and def: 63/63 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 371
+=== ep: 391, time 31.177846431732178, eps 0.0010000029060465757, right preds for atk and def: 77/77 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 372
+goal_identified
+=== ep: 392, time 31.90435552597046, eps 0.0010000027643170119, right preds for atk and def: 99/99 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 373
+goal_identified
+goal_identified
+goal_identified
+=== ep: 393, time 30.042694091796875, eps 0.0010000026294996803, right preds for atk and def: 95/95 = 1.0, score_diff 3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 374
+goal_identified
+goal_identified
+goal_identified
+=== ep: 394, time 32.42513155937195, eps 0.0010000025012574677, right preds for atk and def: 85/85 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 375
+goal_identified
+=== ep: 395, time 36.04135012626648, eps 0.0010000023792697014, right preds for atk and def: 89/89 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 376
+=== ep: 396, time 31.81897759437561, eps 0.0010000022632313489, right preds for atk and def: 77/77 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 377
+goal_identified
+=== ep: 397, time 35.133296966552734, eps 0.0010000021528522535, right preds for atk and def: 80/80 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 378
+=== ep: 398, time 31.862507104873657, eps 0.00100000204785641, right preds for atk and def: 101/101 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 379
+=== ep: 399, time 32.20146989822388, eps 0.0010000019479812744, right preds for atk and def: 86/86 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 380
+=== ep: 400, time 32.40652656555176, eps 0.0010000018529771066, right preds for atk and def: 83/83 = 1.0, score_diff -5, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 381
+goal_identified
+=== ep: 401, time 32.93339538574219, eps 0.0010000017626063467, right preds for atk and def: 102/102 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 382
+goal_identified
+=== ep: 402, time 29.704797506332397, eps 0.0010000016766430208, right preds for atk and def: 95/95 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 383
+goal_identified
+goal_identified
+=== ep: 403, time 32.63376307487488, eps 0.0010000015948721758, right preds for atk and def: 93/93 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 384
+=== ep: 404, time 33.56915307044983, eps 0.001000001517089342, right preds for atk and def: 87/87 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 385
+goal_identified
+=== ep: 405, time 36.13606786727905, eps 0.0010000014431000217, right preds for atk and def: 69/70 = 0.9857142857142858, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 405
+goal_identified
+=== ep: 406, time 29.83626675605774, eps 0.001000001372719203, right preds for atk and def: 65/65 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 386
+goal_identified
+=== ep: 407, time 32.98942255973816, eps 0.0010000013057708975, right preds for atk and def: 85/86 = 0.9883720930232558, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 407
+=== ep: 408, time 36.24255728721619, eps 0.0010000012420876994, right preds for atk and def: 73/73 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 387
+=== ep: 409, time 37.08880281448364, eps 0.0010000011815103674, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 388
+goal_identified
+=== ep: 410, time 30.791281700134277, eps 0.001000001123887427, right preds for atk and def: 114/114 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 389
+goal_identified
+=== ep: 411, time 33.61422538757324, eps 0.0010000010690747903, right preds for atk and def: 79/79 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 390
+=== ep: 412, time 33.19848871231079, eps 0.0010000010169353975, right preds for atk and def: 60/60 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 391
+goal_identified
+=== ep: 413, time 34.231462240219116, eps 0.0010000009673388729, right preds for atk and def: 74/74 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 392
+goal_identified
+goal_identified
+=== ep: 414, time 34.02270269393921, eps 0.0010000009201611994, right preds for atk and def: 79/79 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 393
+goal_identified
+=== ep: 415, time 34.54061770439148, eps 0.0010000008752844081, right preds for atk and def: 99/99 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 394
+=== ep: 416, time 34.76634645462036, eps 0.0010000008325962838, right preds for atk and def: 86/86 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 395
+goal_identified
+=== ep: 417, time 30.66198992729187, eps 0.001000000791990084, right preds for atk and def: 69/69 = 1.0, score_diff 3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 396
+goal_identified
+=== ep: 418, time 33.488465309143066, eps 0.0010000007533642718, right preds for atk and def: 78/78 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 397
+=== ep: 419, time 36.553382873535156, eps 0.0010000007166222626, right preds for atk and def: 91/91 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 398
+=== ep: 420, time 36.174436807632446, eps 0.0010000006816721825, right preds for atk and def: 79/79 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 399
+=== ep: 421, time 33.30634164810181, eps 0.001000000648426638, right preds for atk and def: 52/52 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 400
+goal_identified
+=== ep: 422, time 29.599868535995483, eps 0.0010000006168024976, right preds for atk and def: 75/75 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 401
+=== ep: 423, time 30.755347967147827, eps 0.0010000005867206849, right preds for atk and def: 74/74 = 1.0, score_diff -4, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 402
+goal_identified
+=== ep: 424, time 35.914782762527466, eps 0.0010000005581059794, right preds for atk and def: 103/103 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 403
+=== ep: 425, time 32.11807060241699, eps 0.0010000005308868295, right preds for atk and def: 77/77 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 404
+goal_identified
+=== ep: 426, time 29.59100842475891, eps 0.0010000005049951733, right preds for atk and def: 98/98 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 406
+=== ep: 427, time 31.97781467437744, eps 0.001000000480366268, right preds for atk and def: 114/114 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 408
+=== ep: 428, time 31.444698095321655, eps 0.0010000004569385287, right preds for atk and def: 72/72 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 409
+=== ep: 429, time 32.70451092720032, eps 0.0010000004346533736, right preds for atk and def: 101/101 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 410
+goal_identified
+=== ep: 430, time 32.00799369812012, eps 0.0010000004134550786, right preds for atk and def: 84/84 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 411
+=== ep: 431, time 34.37040710449219, eps 0.0010000003932906364, right preds for atk and def: 59/59 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 412
+=== ep: 432, time 32.1635057926178, eps 0.0010000003741096257, right preds for atk and def: 77/77 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 413
+=== ep: 433, time 31.4803409576416, eps 0.001000000355864084, right preds for atk and def: 52/52 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 414
+goal_identified
+=== ep: 434, time 35.14314341545105, eps 0.0010000003385083878, right preds for atk and def: 100/100 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 415
+=== ep: 435, time 30.537907600402832, eps 0.001000000321999139, right preds for atk and def: 83/83 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 416
+goal_identified
+goal_identified
+=== ep: 436, time 32.11790609359741, eps 0.0010000003062950555, right preds for atk and def: 88/88 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 417
+goal_identified
+=== ep: 437, time 31.74125599861145, eps 0.0010000002913568694, right preds for atk and def: 81/81 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 418
+=== ep: 438, time 31.330145835876465, eps 0.0010000002771472273, right preds for atk and def: 90/90 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 419
+goal_identified
+goal_identified
+=== ep: 439, time 29.599748134613037, eps 0.0010000002636305976, right preds for atk and def: 105/105 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 420
+=== ep: 440, time 32.35819888114929, eps 0.0010000002507731815, right preds for atk and def: 93/93 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 421
+=== ep: 441, time 36.08925223350525, eps 0.0010000002385428292, right preds for atk and def: 129/130 = 0.9923076923076923, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 441
+goal_identified
+goal_identified
+goal_identified
+=== ep: 442, time 34.76150393486023, eps 0.0010000002269089582, right preds for atk and def: 79/79 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 422
+goal_identified
+=== ep: 443, time 31.64814257621765, eps 0.0010000002158424776, right preds for atk and def: 75/75 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 423
+goal_identified
+=== ep: 444, time 36.16568350791931, eps 0.0010000002053157158, right preds for atk and def: 85/85 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 424
+=== ep: 445, time 32.41744899749756, eps 0.0010000001953023503, right preds for atk and def: 81/81 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 425
+goal_identified
+=== ep: 446, time 32.315696716308594, eps 0.001000000185777342, right preds for atk and def: 94/94 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 426
+goal_identified
+=== ep: 447, time 29.974108457565308, eps 0.0010000001767168742, right preds for atk and def: 117/117 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 427
+=== ep: 448, time 34.0279974937439, eps 0.0010000001680982905, right preds for atk and def: 87/87 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 428
+goal_identified
+=== ep: 449, time 32.89867091178894, eps 0.0010000001599000403, right preds for atk and def: 104/104 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 429
+=== ep: 450, time 34.03951597213745, eps 0.0010000001521016232, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 430
+goal_identified
+=== ep: 451, time 30.881232261657715, eps 0.0010000001446835395, right preds for atk and def: 75/75 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 431
+goal_identified
+=== ep: 452, time 37.86853289604187, eps 0.0010000001376272401, right preds for atk and def: 77/78 = 0.9871794871794872, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 452
+=== ep: 453, time 40.10437083244324, eps 0.0010000001309150804, right preds for atk and def: 87/87 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 432
+=== ep: 454, time 38.47757339477539, eps 0.0010000001245302765, right preds for atk and def: 120/120 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 433
+goal_identified
+goal_identified
+=== ep: 455, time 30.978973627090454, eps 0.0010000001184568633, right preds for atk and def: 110/110 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 434
+goal_identified
+=== ep: 456, time 35.243901014328, eps 0.0010000001126796538, right preds for atk and def: 89/89 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 435
+=== ep: 457, time 34.03880047798157, eps 0.0010000001071842023, right preds for atk and def: 98/98 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 436
+goal_identified
+goal_identified
+=== ep: 458, time 34.80780863761902, eps 0.001000000101956767, right preds for atk and def: 84/84 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 437
+goal_identified
+=== ep: 459, time 31.341776609420776, eps 0.001000000096984277, right preds for atk and def: 75/75 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 438
+goal_identified
+goal_identified
+goal_identified
+=== ep: 460, time 35.09849786758423, eps 0.001000000092254298, right preds for atk and def: 81/81 = 1.0, score_diff 3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 439
+goal_identified
+goal_identified
+=== ep: 461, time 33.86309576034546, eps 0.0010000000877550027, right preds for atk and def: 81/81 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 440
+goal_identified
+=== ep: 462, time 34.62235689163208, eps 0.0010000000834751407, right preds for atk and def: 73/73 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 442
+=== ep: 463, time 38.56833052635193, eps 0.00100000007940401, right preds for atk and def: 96/96 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 443
+=== ep: 464, time 37.331103563308716, eps 0.0010000000755314307, right preds for atk and def: 71/71 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 444
+goal_identified
+=== ep: 465, time 37.773679971694946, eps 0.0010000000718477194, right preds for atk and def: 79/79 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 445
+goal_identified
+goal_identified
+=== ep: 466, time 34.730178117752075, eps 0.0010000000683436647, right preds for atk and def: 79/79 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 446
+=== ep: 467, time 31.49870014190674, eps 0.001000000065010505, right preds for atk and def: 93/93 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 447
+goal_identified
+=== ep: 468, time 33.639320373535156, eps 0.0010000000618399052, right preds for atk and def: 73/73 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 448
+=== ep: 469, time 34.763017654418945, eps 0.0010000000588239375, right preds for atk and def: 106/106 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 449
+goal_identified
+=== ep: 470, time 33.67752814292908, eps 0.0010000000559550603, right preds for atk and def: 74/74 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 450
+goal_identified
+=== ep: 471, time 30.90801239013672, eps 0.0010000000532260998, right preds for atk and def: 84/84 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 451
+=== ep: 472, time 33.96809363365173, eps 0.0010000000506302322, right preds for atk and def: 98/98 = 1.0, score_diff -4, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 453
+=== ep: 473, time 37.45681643486023, eps 0.0010000000481609666, right preds for atk and def: 93/93 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 454
+=== ep: 474, time 38.06835412979126, eps 0.0010000000458121286, right preds for atk and def: 77/77 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 455
+goal_identified
+=== ep: 475, time 34.69177460670471, eps 0.0010000000435778447, right preds for atk and def: 92/92 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 456
+goal_identified
+=== ep: 476, time 33.74480724334717, eps 0.001000000041452528, right preds for atk and def: 91/91 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 457
+goal_identified
+=== ep: 477, time 33.22585964202881, eps 0.0010000000394308644, right preds for atk and def: 101/101 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 458
+goal_identified
+=== ep: 478, time 32.28523635864258, eps 0.0010000000375077985, right preds for atk and def: 65/65 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 459
+=== ep: 479, time 30.04119873046875, eps 0.0010000000356785216, right preds for atk and def: 73/73 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 460
+=== ep: 480, time 31.91593289375305, eps 0.0010000000339384595, right preds for atk and def: 87/87 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 461
+goal_identified
+goal_identified
+=== ep: 481, time 32.11334586143494, eps 0.0010000000322832614, right preds for atk and def: 101/101 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 462
+goal_identified
+=== ep: 482, time 31.857752323150635, eps 0.0010000000307087882, right preds for atk and def: 87/87 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 463
+goal_identified
+goal_identified
+goal_identified
+=== ep: 483, time 30.675782203674316, eps 0.001000000029211103, right preds for atk and def: 82/82 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 464
+=== ep: 484, time 35.63145446777344, eps 0.0010000000277864607, right preds for atk and def: 81/81 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 465
+=== ep: 485, time 35.07188606262207, eps 0.0010000000264312988, right preds for atk and def: 68/68 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 466
+=== ep: 486, time 36.081178188323975, eps 0.0010000000251422292, right preds for atk and def: 114/114 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 467
+goal_identified
+=== ep: 487, time 34.366936445236206, eps 0.0010000000239160282, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 468
+=== ep: 488, time 29.258209228515625, eps 0.00100000002274963, right preds for atk and def: 56/56 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 469
+=== ep: 489, time 32.129730224609375, eps 0.0010000000216401172, right preds for atk and def: 93/93 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 470
+=== ep: 490, time 31.641057014465332, eps 0.0010000000205847162, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 471
+=== ep: 491, time 31.678219079971313, eps 0.0010000000195807877, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 472
+goal_identified
+=== ep: 492, time 30.08202075958252, eps 0.0010000000186258216, right preds for atk and def: 106/106 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 473
+goal_identified
+=== ep: 493, time 35.35062003135681, eps 0.0010000000177174295, right preds for atk and def: 63/63 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 474
+goal_identified
+=== ep: 494, time 32.19218564033508, eps 0.0010000000168533404, right preds for atk and def: 89/89 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 475
+goal_identified
+=== ep: 495, time 32.36017942428589, eps 0.0010000000160313932, right preds for atk and def: 88/88 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 476
+goal_identified
+=== ep: 496, time 32.72108864784241, eps 0.001000000015249533, right preds for atk and def: 95/95 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 477
+goal_identified
+=== ep: 497, time 34.805124044418335, eps 0.0010000000145058043, right preds for atk and def: 65/65 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 478
+goal_identified
+=== ep: 498, time 34.93470907211304, eps 0.001000000013798348, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 479
+goal_identified
+=== ep: 499, time 32.201876163482666, eps 0.0010000000131253947, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 480
+goal_identified
+=== ep: 500, time 32.18167543411255, eps 0.0010000000124852615, right preds for atk and def: 83/83 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 481
+=== ep: 501, time 29.87318205833435, eps 0.0010000000118763482, right preds for atk and def: 96/96 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 482
+=== ep: 502, time 33.16590690612793, eps 0.0010000000112971319, right preds for atk and def: 84/84 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 483
+=== ep: 503, time 35.087586402893066, eps 0.0010000000107461642, right preds for atk and def: 72/72 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 484
+goal_identified
+=== ep: 504, time 33.68009352684021, eps 0.0010000000102220676, right preds for atk and def: 93/93 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 485
+goal_identified
+=== ep: 505, time 29.78968906402588, eps 0.0010000000097235315, right preds for atk and def: 103/103 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 486
+=== ep: 506, time 32.03921461105347, eps 0.0010000000092493092, right preds for atk and def: 78/78 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 487
+=== ep: 507, time 32.35421562194824, eps 0.0010000000087982152, right preds for atk and def: 76/76 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 488
+goal_identified
+=== ep: 508, time 35.46476149559021, eps 0.0010000000083691212, right preds for atk and def: 79/79 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 489
+=== ep: 509, time 32.2795889377594, eps 0.0010000000079609542, right preds for atk and def: 79/79 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 490
+=== ep: 510, time 32.40297222137451, eps 0.001000000007572694, right preds for atk and def: 87/87 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 491
+goal_identified
+=== ep: 511, time 31.616848468780518, eps 0.0010000000072033692, right preds for atk and def: 79/79 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 492
+goal_identified
+=== ep: 512, time 31.724258184432983, eps 0.001000000006852057, right preds for atk and def: 67/67 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 493
+=== ep: 513, time 30.116536855697632, eps 0.001000000006517878, right preds for atk and def: 84/84 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 494
+=== ep: 514, time 37.68807315826416, eps 0.0010000000061999974, right preds for atk and def: 80/80 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 495
+=== ep: 515, time 34.24811053276062, eps 0.0010000000058976199, right preds for atk and def: 90/90 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 496
+=== ep: 516, time 34.061461210250854, eps 0.0010000000056099897, right preds for atk and def: 80/80 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 497
+goal_identified
+=== ep: 517, time 31.55398654937744, eps 0.0010000000053363872, right preds for atk and def: 109/109 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 498
+goal_identified
+goal_identified
+=== ep: 518, time 34.21195435523987, eps 0.0010000000050761286, right preds for atk and def: 77/77 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 499
+goal_identified
+=== ep: 519, time 37.21768641471863, eps 0.001000000004828563, right preds for atk and def: 105/105 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 500
+goal_identified
+=== ep: 520, time 38.05629062652588, eps 0.001000000004593071, right preds for atk and def: 97/97 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 501
+goal_identified
+=== ep: 521, time 37.12865495681763, eps 0.0010000000043690644, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 502
+goal_identified
+goal_identified
+=== ep: 522, time 34.699405908584595, eps 0.0010000000041559827, right preds for atk and def: 105/105 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 503
+=== ep: 523, time 37.66248846054077, eps 0.0010000000039532928, right preds for atk and def: 79/79 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 504
+=== ep: 524, time 33.601876735687256, eps 0.0010000000037604885, right preds for atk and def: 75/75 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 505
+=== ep: 525, time 34.9375741481781, eps 0.0010000000035770874, right preds for atk and def: 71/71 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 506
+=== ep: 526, time 34.76350116729736, eps 0.0010000000034026306, right preds for atk and def: 91/91 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 507
+=== ep: 527, time 34.09024715423584, eps 0.0010000000032366824, right preds for atk and def: 111/111 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 508
+=== ep: 528, time 33.62912058830261, eps 0.0010000000030788276, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 509
+goal_identified
+=== ep: 529, time 29.869218111038208, eps 0.0010000000029286714, right preds for atk and def: 57/57 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 510
+=== ep: 530, time 37.39235186576843, eps 0.0010000000027858384, right preds for atk and def: 79/79 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 511
+goal_identified
+=== ep: 531, time 37.565935373306274, eps 0.0010000000026499714, right preds for atk and def: 85/85 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 512
+goal_identified
+=== ep: 532, time 33.68733882904053, eps 0.0010000000025207308, right preds for atk and def: 87/87 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 513
+goal_identified
+=== ep: 533, time 36.30309462547302, eps 0.0010000000023977934, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 514
+=== ep: 534, time 29.949917554855347, eps 0.0010000000022808515, right preds for atk and def: 82/82 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 515
+goal_identified
+=== ep: 535, time 32.137030363082886, eps 0.0010000000021696133, right preds for atk and def: 72/72 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 516
+=== ep: 536, time 32.66495394706726, eps 0.0010000000020637999, right preds for atk and def: 107/107 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 517
+=== ep: 537, time 32.03242778778076, eps 0.0010000000019631471, right preds for atk and def: 81/81 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 518
+=== ep: 538, time 30.34610152244568, eps 0.0010000000018674034, right preds for atk and def: 99/99 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 519
+goal_identified
+=== ep: 539, time 33.27805829048157, eps 0.001000000001776329, right preds for atk and def: 107/107 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 520
+=== ep: 540, time 32.44793653488159, eps 0.0010000000016896964, right preds for atk and def: 73/73 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 521
+=== ep: 541, time 35.441133975982666, eps 0.001000000001607289, right preds for atk and def: 83/83 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 522
+goal_identified
+=== ep: 542, time 35.4464054107666, eps 0.0010000000015289005, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 523
+goal_identified
+=== ep: 543, time 34.415308475494385, eps 0.0010000000014543352, right preds for atk and def: 96/96 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 524
+=== ep: 544, time 32.65762686729431, eps 0.0010000000013834064, right preds for atk and def: 96/96 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 525
+goal_identified
+=== ep: 545, time 32.229031801223755, eps 0.001000000001315937, right preds for atk and def: 61/61 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 526
+goal_identified
+=== ep: 546, time 30.71884036064148, eps 0.0010000000012517578, right preds for atk and def: 131/131 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 527
+goal_identified
+=== ep: 547, time 32.30584454536438, eps 0.001000000001190709, right preds for atk and def: 97/97 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 528
+goal_identified
+goal_identified
+=== ep: 548, time 32.21234059333801, eps 0.0010000000011326374, right preds for atk and def: 97/97 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 529
+=== ep: 549, time 32.43123912811279, eps 0.001000000001077398, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 530
+=== ep: 550, time 30.412678718566895, eps 0.0010000000010248527, right preds for atk and def: 99/99 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 531
+=== ep: 551, time 35.85944962501526, eps 0.00100000000097487, right preds for atk and def: 87/87 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 532
+=== ep: 552, time 37.568596601486206, eps 0.001000000000927325, right preds for atk and def: 78/78 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 533
+=== ep: 553, time 40.40185594558716, eps 0.0010000000008820989, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 534
+goal_identified
+goal_identified
+=== ep: 554, time 37.763590574264526, eps 0.0010000000008390784, right preds for atk and def: 95/95 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 535
+=== ep: 555, time 30.318265438079834, eps 0.001000000000798156, right preds for atk and def: 69/69 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 536
+goal_identified
+=== ep: 556, time 34.065059423446655, eps 0.0010000000007592295, right preds for atk and def: 93/93 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 537
+goal_identified
+=== ep: 557, time 34.47500681877136, eps 0.0010000000007222014, right preds for atk and def: 107/107 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 538
+goal_identified
+=== ep: 558, time 32.27921724319458, eps 0.0010000000006869794, right preds for atk and def: 75/75 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 539
+goal_identified
+=== ep: 559, time 34.63913083076477, eps 0.001000000000653475, right preds for atk and def: 97/97 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 540
+goal_identified
+=== ep: 560, time 34.290276765823364, eps 0.0010000000006216046, right preds for atk and def: 86/86 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 541
+=== ep: 561, time 34.495769023895264, eps 0.0010000000005912885, right preds for atk and def: 80/80 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 542
+=== ep: 562, time 35.14958643913269, eps 0.0010000000005624511, right preds for atk and def: 100/100 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 543
+=== ep: 563, time 38.70516085624695, eps 0.00100000000053502, right preds for atk and def: 98/98 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 544
+goal_identified
+goal_identified
+=== ep: 564, time 36.95650839805603, eps 0.001000000000508927, right preds for atk and def: 71/71 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 545
+=== ep: 565, time 37.8577606678009, eps 0.001000000000484106, right preds for atk and def: 111/111 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 546
+=== ep: 566, time 35.44937872886658, eps 0.001000000000460496, right preds for atk and def: 106/106 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 547
+goal_identified
+=== ep: 567, time 32.51379728317261, eps 0.0010000000004380374, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 548
+goal_identified
+=== ep: 568, time 35.38423466682434, eps 0.001000000000416674, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 549
+goal_identified
+goal_identified
+=== ep: 569, time 34.84230136871338, eps 0.0010000000003963527, right preds for atk and def: 77/77 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 550
+goal_identified
+=== ep: 570, time 34.70066976547241, eps 0.0010000000003770222, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 551
+goal_identified
+=== ep: 571, time 34.472440004348755, eps 0.0010000000003586346, right preds for atk and def: 124/124 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 552
+=== ep: 572, time 36.560919523239136, eps 0.0010000000003411438, right preds for atk and def: 97/97 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 553
+goal_identified
+=== ep: 573, time 34.940956354141235, eps 0.001000000000324506, right preds for atk and def: 97/97 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 554
+goal_identified
+=== ep: 574, time 38.311792612075806, eps 0.0010000000003086798, right preds for atk and def: 101/101 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 555
+=== ep: 575, time 35.393146991729736, eps 0.0010000000002936252, right preds for atk and def: 107/107 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 556
+=== ep: 576, time 34.23798704147339, eps 0.001000000000279305, right preds for atk and def: 93/93 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 557
+=== ep: 577, time 34.2719669342041, eps 0.0010000000002656831, right preds for atk and def: 93/93 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 558
+goal_identified
+=== ep: 578, time 34.27912473678589, eps 0.0010000000002527256, right preds for atk and def: 83/83 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 559
+=== ep: 579, time 31.80312991142273, eps 0.0010000000002404, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 560
+goal_identified
+=== ep: 580, time 34.12821388244629, eps 0.0010000000002286756, right preds for atk and def: 75/75 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 561
+goal_identified
+=== ep: 581, time 34.74913501739502, eps 0.0010000000002175229, right preds for atk and def: 101/101 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 562
+=== ep: 582, time 38.892489433288574, eps 0.0010000000002069142, right preds for atk and def: 97/97 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 563
+=== ep: 583, time 34.18246817588806, eps 0.0010000000001968228, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 564
+goal_identified
+=== ep: 584, time 36.883400201797485, eps 0.0010000000001872237, right preds for atk and def: 108/108 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 565
+goal_identified
+=== ep: 585, time 37.40936732292175, eps 0.0010000000001780928, right preds for atk and def: 75/75 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 566
+=== ep: 586, time 36.05240750312805, eps 0.001000000000169407, right preds for atk and def: 65/65 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 567
+goal_identified
+goal_identified
+=== ep: 587, time 33.59805250167847, eps 0.001000000000161145, right preds for atk and def: 85/85 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 568
+goal_identified
+=== ep: 588, time 30.438275814056396, eps 0.0010000000001532858, right preds for atk and def: 99/99 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 569
+goal_identified
+=== ep: 589, time 33.86219573020935, eps 0.00100000000014581, right preds for atk and def: 87/87 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 570
+=== ep: 590, time 34.489511251449585, eps 0.0010000000001386988, right preds for atk and def: 91/91 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 571
+goal_identified
+=== ep: 591, time 38.16193079948425, eps 0.0010000000001319344, right preds for atk and def: 89/89 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 572
+=== ep: 592, time 35.13041543960571, eps 0.0010000000001255, right preds for atk and def: 113/113 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 573
+goal_identified
+=== ep: 593, time 33.842812061309814, eps 0.0010000000001193791, right preds for atk and def: 83/83 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 574
+=== ep: 594, time 34.605409383773804, eps 0.001000000000113557, right preds for atk and def: 109/109 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 575
+=== ep: 595, time 37.550806283950806, eps 0.0010000000001080186, right preds for atk and def: 89/89 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 576
+goal_identified
+=== ep: 596, time 38.01602745056152, eps 0.0010000000001027505, right preds for atk and def: 73/73 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 577
+goal_identified
+goal_identified
+goal_identified
+=== ep: 597, time 33.13226771354675, eps 0.0010000000000977393, right preds for atk and def: 79/79 = 1.0, score_diff 3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 578
+goal_identified
+=== ep: 598, time 33.742817640304565, eps 0.0010000000000929725, right preds for atk and def: 78/78 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 579
+=== ep: 599, time 33.47244930267334, eps 0.0010000000000884382, right preds for atk and def: 85/85 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 580
+goal_identified
+goal_identified
+=== ep: 600, time 32.688395738601685, eps 0.001000000000084125, right preds for atk and def: 109/109 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 581
+goal_identified
+=== ep: 601, time 31.285231351852417, eps 0.0010000000000800222, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 582
+=== ep: 602, time 33.1581506729126, eps 0.0010000000000761195, right preds for atk and def: 97/97 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 583
+goal_identified
+=== ep: 603, time 32.415202617645264, eps 0.0010000000000724072, right preds for atk and def: 73/73 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 584
+goal_identified
+=== ep: 604, time 32.724989891052246, eps 0.0010000000000688757, right preds for atk and def: 86/87 = 0.9885057471264368, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 604
+=== ep: 605, time 44.459129333496094, eps 0.0010000000000655166, right preds for atk and def: 25/25 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 585
+goal_identified
+=== ep: 606, time 36.408392906188965, eps 0.0010000000000623215, right preds for atk and def: 91/91 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 586
+=== ep: 607, time 35.84141421318054, eps 0.001000000000059282, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 587
+goal_identified
+goal_identified
+=== ep: 608, time 34.10612368583679, eps 0.0010000000000563907, right preds for atk and def: 78/78 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 588
+=== ep: 609, time 30.427000045776367, eps 0.0010000000000536405, right preds for atk and def: 83/83 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 589
+goal_identified
+=== ep: 610, time 36.96156144142151, eps 0.0010000000000510245, right preds for atk and def: 94/94 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 590
+goal_identified
+=== ep: 611, time 32.69652032852173, eps 0.0010000000000485358, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 591
+goal_identified
+goal_identified
+=== ep: 612, time 32.42751884460449, eps 0.0010000000000461688, right preds for atk and def: 90/90 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 592
+=== ep: 613, time 31.895838499069214, eps 0.0010000000000439171, right preds for atk and def: 84/84 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 593
+goal_identified
+=== ep: 614, time 31.856984615325928, eps 0.0010000000000417752, right preds for atk and def: 93/93 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 594
+=== ep: 615, time 31.783514738082886, eps 0.0010000000000397378, right preds for atk and def: 95/95 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 595
+goal_identified
+=== ep: 616, time 31.549057483673096, eps 0.0010000000000377999, right preds for atk and def: 79/79 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 596
+=== ep: 617, time 35.273043394088745, eps 0.0010000000000359563, right preds for atk and def: 102/102 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 597
+=== ep: 618, time 31.668943405151367, eps 0.0010000000000342027, right preds for atk and def: 87/87 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 598
+goal_identified
+=== ep: 619, time 38.04076337814331, eps 0.0010000000000325345, right preds for atk and def: 93/93 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 599
+=== ep: 620, time 36.04809308052063, eps 0.001000000000030948, right preds for atk and def: 73/73 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 600
+goal_identified
+goal_identified
+=== ep: 621, time 32.149797201156616, eps 0.0010000000000294385, right preds for atk and def: 69/69 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 601
+=== ep: 622, time 31.657331228256226, eps 0.0010000000000280028, right preds for atk and def: 103/103 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 602
+goal_identified
+goal_identified
+=== ep: 623, time 31.709161043167114, eps 0.0010000000000266371, right preds for atk and def: 87/87 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 603
+=== ep: 624, time 32.44629955291748, eps 0.001000000000025338, right preds for atk and def: 97/97 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 605
+goal_identified
+=== ep: 625, time 32.02949237823486, eps 0.0010000000000241023, right preds for atk and def: 107/107 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 606
+=== ep: 626, time 32.37783122062683, eps 0.0010000000000229268, right preds for atk and def: 91/91 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 607
+=== ep: 627, time 29.930320024490356, eps 0.0010000000000218085, right preds for atk and def: 90/90 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 608
+=== ep: 628, time 36.75305771827698, eps 0.001000000000020745, right preds for atk and def: 89/90 = 0.9888888888888889, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 628
+=== ep: 629, time 36.39855885505676, eps 0.0010000000000197332, right preds for atk and def: 61/62 = 0.9838709677419355, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 629
+=== ep: 630, time 40.37027072906494, eps 0.0010000000000187708, right preds for atk and def: 103/103 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 609
+goal_identified
+=== ep: 631, time 33.00170612335205, eps 0.0010000000000178553, right preds for atk and def: 73/73 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 610
+goal_identified
+=== ep: 632, time 32.15754818916321, eps 0.0010000000000169845, right preds for atk and def: 66/66 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 611
+=== ep: 633, time 31.919244527816772, eps 0.0010000000000161562, right preds for atk and def: 76/76 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 612
+goal_identified
+goal_identified
+=== ep: 634, time 32.286452531814575, eps 0.0010000000000153684, right preds for atk and def: 67/67 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 613
+=== ep: 635, time 32.337106704711914, eps 0.0010000000000146188, right preds for atk and def: 92/92 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 614
+goal_identified
+=== ep: 636, time 29.800225973129272, eps 0.0010000000000139058, right preds for atk and def: 61/61 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 615
+goal_identified
+goal_identified
+=== ep: 637, time 33.07546091079712, eps 0.0010000000000132275, right preds for atk and def: 94/94 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 616
+goal_identified
+=== ep: 638, time 34.614441871643066, eps 0.0010000000000125824, right preds for atk and def: 93/93 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 617
+goal_identified
+goal_identified
+=== ep: 639, time 36.8945746421814, eps 0.0010000000000119687, right preds for atk and def: 69/69 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 618
+=== ep: 640, time 34.72390937805176, eps 0.001000000000011385, right preds for atk and def: 71/71 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 619
+=== ep: 641, time 37.68343114852905, eps 0.00100000000001083, right preds for atk and def: 103/103 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 620
+=== ep: 642, time 35.89649534225464, eps 0.0010000000000103017, right preds for atk and def: 100/100 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 621
+=== ep: 643, time 34.09295630455017, eps 0.0010000000000097993, right preds for atk and def: 92/92 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 622
+=== ep: 644, time 31.318016529083252, eps 0.0010000000000093213, right preds for atk and def: 74/74 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 623
+=== ep: 645, time 34.53325939178467, eps 0.0010000000000088666, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 624
+=== ep: 646, time 33.65597748756409, eps 0.0010000000000084342, right preds for atk and def: 109/109 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 625
+goal_identified
+=== ep: 647, time 32.575746297836304, eps 0.001000000000008023, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 626
+goal_identified
+=== ep: 648, time 30.953613758087158, eps 0.0010000000000076317, right preds for atk and def: 85/85 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 627
+goal_identified
+=== ep: 649, time 32.648667097091675, eps 0.0010000000000072594, right preds for atk and def: 85/85 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 630
+=== ep: 650, time 32.17830038070679, eps 0.0010000000000069055, right preds for atk and def: 99/99 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 631
+=== ep: 651, time 35.14364242553711, eps 0.0010000000000065686, right preds for atk and def: 63/63 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 632
+goal_identified
+=== ep: 652, time 34.988518714904785, eps 0.0010000000000062483, right preds for atk and def: 73/73 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 633
+=== ep: 653, time 32.09105968475342, eps 0.0010000000000059436, right preds for atk and def: 78/78 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 634
+goal_identified
+=== ep: 654, time 32.30253529548645, eps 0.0010000000000056537, right preds for atk and def: 88/88 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 635
+goal_identified
+=== ep: 655, time 32.206664085388184, eps 0.0010000000000053779, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 636
+=== ep: 656, time 32.4744815826416, eps 0.0010000000000051157, right preds for atk and def: 77/77 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 637
+goal_identified
+=== ep: 657, time 30.623848915100098, eps 0.0010000000000048661, right preds for atk and def: 93/93 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 638
+=== ep: 658, time 36.1149742603302, eps 0.001000000000004629, right preds for atk and def: 79/79 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 639
+goal_identified
+=== ep: 659, time 32.058523178100586, eps 0.0010000000000044032, right preds for atk and def: 84/84 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 640
+goal_identified
+goal_identified
+=== ep: 660, time 31.947094202041626, eps 0.0010000000000041883, right preds for atk and def: 65/65 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 641
+=== ep: 661, time 32.32185387611389, eps 0.001000000000003984, right preds for atk and def: 67/67 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 642
+goal_identified
+=== ep: 662, time 30.010629653930664, eps 0.0010000000000037897, right preds for atk and def: 72/72 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 643
+goal_identified
+=== ep: 663, time 35.334914207458496, eps 0.001000000000003605, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 644
+goal_identified
+=== ep: 664, time 35.68779277801514, eps 0.0010000000000034291, right preds for atk and def: 71/71 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 645
+goal_identified
+=== ep: 665, time 33.20631003379822, eps 0.001000000000003262, right preds for atk and def: 74/74 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 646
+goal_identified
+goal_identified
+=== ep: 666, time 34.08965539932251, eps 0.0010000000000031028, right preds for atk and def: 95/95 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 647
+goal_identified
+=== ep: 667, time 34.20581388473511, eps 0.0010000000000029514, right preds for atk and def: 103/103 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 648
+=== ep: 668, time 37.34305286407471, eps 0.0010000000000028075, right preds for atk and def: 83/83 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 649
+=== ep: 669, time 33.75346302986145, eps 0.0010000000000026706, right preds for atk and def: 83/83 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 650
+=== ep: 670, time 32.542274475097656, eps 0.0010000000000025403, right preds for atk and def: 99/99 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 651
+goal_identified
+goal_identified
+=== ep: 671, time 29.72415065765381, eps 0.0010000000000024165, right preds for atk and def: 73/73 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 652
+=== ep: 672, time 31.814782857894897, eps 0.0010000000000022985, right preds for atk and def: 97/97 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 653
+=== ep: 673, time 32.060988426208496, eps 0.0010000000000021864, right preds for atk and def: 62/62 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 654
+goal_identified
+goal_identified
+=== ep: 674, time 35.18123412132263, eps 0.00100000000000208, right preds for atk and def: 80/80 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 655
+=== ep: 675, time 33.37295961380005, eps 0.0010000000000019785, right preds for atk and def: 82/82 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 656
+=== ep: 676, time 30.810603618621826, eps 0.001000000000001882, right preds for atk and def: 72/72 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 657
+goal_identified
+=== ep: 677, time 31.95360493659973, eps 0.0010000000000017903, right preds for atk and def: 74/74 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 658
+goal_identified
+=== ep: 678, time 34.315616846084595, eps 0.0010000000000017029, right preds for atk and def: 75/75 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 659
+=== ep: 679, time 31.610448598861694, eps 0.0010000000000016198, right preds for atk and def: 90/90 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 660
+goal_identified
+=== ep: 680, time 30.098084688186646, eps 0.0010000000000015409, right preds for atk and def: 77/77 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 661
+=== ep: 681, time 32.47772192955017, eps 0.0010000000000014656, right preds for atk and def: 63/63 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 662
+=== ep: 682, time 32.590739011764526, eps 0.0010000000000013943, right preds for atk and def: 91/91 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 663
+goal_identified
+goal_identified
+=== ep: 683, time 32.438581466674805, eps 0.0010000000000013262, right preds for atk and def: 76/76 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 664
+=== ep: 684, time 29.85448694229126, eps 0.0010000000000012616, right preds for atk and def: 72/72 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 665
+goal_identified
+=== ep: 685, time 34.85096192359924, eps 0.0010000000000012, right preds for atk and def: 109/109 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 666
+=== ep: 686, time 35.56104850769043, eps 0.0010000000000011415, right preds for atk and def: 77/77 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 667
+=== ep: 687, time 37.76044201850891, eps 0.0010000000000010857, right preds for atk and def: 88/88 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 668
+goal_identified
+=== ep: 688, time 34.185750246047974, eps 0.0010000000000010328, right preds for atk and def: 75/75 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 669
+=== ep: 689, time 29.844704627990723, eps 0.0010000000000009825, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 670
+=== ep: 690, time 33.20470857620239, eps 0.0010000000000009346, right preds for atk and def: 95/95 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 671
+=== ep: 691, time 33.298500299453735, eps 0.001000000000000889, right preds for atk and def: 69/69 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 672
+=== ep: 692, time 33.73146605491638, eps 0.0010000000000008457, right preds for atk and def: 98/98 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 673
+goal_identified
+=== ep: 693, time 30.687073707580566, eps 0.0010000000000008045, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 674
+=== ep: 694, time 39.232138872146606, eps 0.0010000000000007653, right preds for atk and def: 35/35 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 675
+=== ep: 695, time 32.62491416931152, eps 0.0010000000000007277, right preds for atk and def: 91/91 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 676
+=== ep: 696, time 34.08918881416321, eps 0.0010000000000006924, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 677
+goal_identified
+=== ep: 697, time 37.286941051483154, eps 0.0010000000000006586, right preds for atk and def: 81/81 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 678
+=== ep: 698, time 36.887059450149536, eps 0.0010000000000006265, right preds for atk and def: 85/85 = 1.0, score_diff -4, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 679
+goal_identified
+=== ep: 699, time 35.19505524635315, eps 0.001000000000000596, right preds for atk and def: 78/79 = 0.9873417721518988, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 699
+=== ep: 700, time 33.284223318099976, eps 0.0010000000000005668, right preds for atk and def: 89/89 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 680
+=== ep: 701, time 33.67295527458191, eps 0.0010000000000005393, right preds for atk and def: 112/112 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 681
+=== ep: 702, time 33.34540557861328, eps 0.0010000000000005128, right preds for atk and def: 67/67 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 682
+=== ep: 703, time 32.48957633972168, eps 0.001000000000000488, right preds for atk and def: 57/57 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 683
+goal_identified
+=== ep: 704, time 32.46377110481262, eps 0.001000000000000464, right preds for atk and def: 59/59 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 684
+=== ep: 705, time 32.05020046234131, eps 0.0010000000000004415, right preds for atk and def: 81/81 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 685
+goal_identified
+=== ep: 706, time 33.119850158691406, eps 0.00100000000000042, right preds for atk and def: 91/91 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 686
+=== ep: 707, time 32.17995309829712, eps 0.0010000000000003994, right preds for atk and def: 93/93 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 687
+goal_identified
+=== ep: 708, time 35.055760622024536, eps 0.00100000000000038, right preds for atk and def: 93/93 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 688
+goal_identified
+=== ep: 709, time 35.58555459976196, eps 0.0010000000000003615, right preds for atk and def: 125/125 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 689
+goal_identified
+=== ep: 710, time 36.18725085258484, eps 0.0010000000000003437, right preds for atk and def: 94/94 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 690
+goal_identified
+goal_identified
+=== ep: 711, time 31.175583839416504, eps 0.001000000000000327, right preds for atk and def: 102/102 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 691
+=== ep: 712, time 32.936288356781006, eps 0.0010000000000003112, right preds for atk and def: 117/117 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 692
+goal_identified
+=== ep: 713, time 32.776925802230835, eps 0.001000000000000296, right preds for atk and def: 95/95 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 693
+goal_identified
+goal_identified
+goal_identified
+goal_identified
+=== ep: 714, time 32.56069564819336, eps 0.0010000000000002815, right preds for atk and def: 98/98 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 694
+goal_identified
+goal_identified
+=== ep: 715, time 30.141197681427002, eps 0.0010000000000002678, right preds for atk and def: 102/102 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 695
+goal_identified
+=== ep: 716, time 36.27213430404663, eps 0.0010000000000002548, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 696
+goal_identified
+goal_identified
+=== ep: 717, time 33.12640619277954, eps 0.0010000000000002422, right preds for atk and def: 75/75 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 697
+=== ep: 718, time 33.26070427894592, eps 0.0010000000000002305, right preds for atk and def: 97/97 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 698
+goal_identified
+=== ep: 719, time 30.75314712524414, eps 0.0010000000000002192, right preds for atk and def: 99/99 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 700
+goal_identified
+=== ep: 720, time 36.272554874420166, eps 0.0010000000000002086, right preds for atk and def: 89/89 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 701
+goal_identified
+=== ep: 721, time 35.737695932388306, eps 0.0010000000000001984, right preds for atk and def: 105/105 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 702
+goal_identified
+=== ep: 722, time 33.20531725883484, eps 0.0010000000000001887, right preds for atk and def: 65/65 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 703
+=== ep: 723, time 33.30701804161072, eps 0.0010000000000001796, right preds for atk and def: 104/104 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 704
+goal_identified
+=== ep: 724, time 30.245448350906372, eps 0.0010000000000001707, right preds for atk and def: 92/92 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 705
+goal_identified
+=== ep: 725, time 33.60572695732117, eps 0.0010000000000001624, right preds for atk and def: 76/76 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 706
+=== ep: 726, time 38.59329271316528, eps 0.0010000000000001544, right preds for atk and def: 79/79 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 707
+=== ep: 727, time 33.24289298057556, eps 0.001000000000000147, right preds for atk and def: 76/76 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 708
+goal_identified
+=== ep: 728, time 30.70478129386902, eps 0.0010000000000001399, right preds for atk and def: 97/97 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 709
+goal_identified
+goal_identified
+=== ep: 729, time 32.89187288284302, eps 0.001000000000000133, right preds for atk and def: 97/97 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 710
+=== ep: 730, time 33.13693451881409, eps 0.0010000000000001264, right preds for atk and def: 88/89 = 0.9887640449438202, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 730
+goal_identified
+=== ep: 731, time 37.0944242477417, eps 0.0010000000000001204, right preds for atk and def: 68/68 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 711
+goal_identified
+goal_identified
+=== ep: 732, time 37.18664860725403, eps 0.0010000000000001145, right preds for atk and def: 81/81 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 712
+goal_identified
+=== ep: 733, time 31.70060110092163, eps 0.0010000000000001089, right preds for atk and def: 71/71 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 713
+=== ep: 734, time 32.84758496284485, eps 0.0010000000000001037, right preds for atk and def: 66/66 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 714
+goal_identified
+=== ep: 735, time 37.46668291091919, eps 0.0010000000000000985, right preds for atk and def: 77/77 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 715
+=== ep: 736, time 33.141660928726196, eps 0.0010000000000000937, right preds for atk and def: 79/79 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 716
+goal_identified
+=== ep: 737, time 29.95919370651245, eps 0.0010000000000000891, right preds for atk and def: 83/83 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 717
+=== ep: 738, time 33.60848069190979, eps 0.0010000000000000848, right preds for atk and def: 84/84 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 718
+=== ep: 739, time 33.66991949081421, eps 0.0010000000000000807, right preds for atk and def: 107/107 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 719
+goal_identified
+=== ep: 740, time 33.87659525871277, eps 0.0010000000000000768, right preds for atk and def: 82/82 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 720
+goal_identified
+goal_identified
+goal_identified
+=== ep: 741, time 30.89617681503296, eps 0.001000000000000073, right preds for atk and def: 93/93 = 1.0, score_diff 3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 721
+=== ep: 742, time 37.53297734260559, eps 0.0010000000000000694, right preds for atk and def: 89/90 = 0.9888888888888889, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 742
+goal_identified
+=== ep: 743, time 36.834177017211914, eps 0.001000000000000066, right preds for atk and def: 78/78 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 722
+=== ep: 744, time 35.37361145019531, eps 0.001000000000000063, right preds for atk and def: 91/91 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 723
+goal_identified
+goal_identified
+=== ep: 745, time 37.917194843292236, eps 0.0010000000000000599, right preds for atk and def: 71/71 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 724
+goal_identified
+goal_identified
+goal_identified
+=== ep: 746, time 31.988539218902588, eps 0.0010000000000000568, right preds for atk and def: 79/79 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 725
+goal_identified
+=== ep: 747, time 34.24117994308472, eps 0.001000000000000054, right preds for atk and def: 111/111 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 726
+=== ep: 748, time 34.5125207901001, eps 0.0010000000000000514, right preds for atk and def: 91/91 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 727
+goal_identified
+=== ep: 749, time 34.508429288864136, eps 0.001000000000000049, right preds for atk and def: 84/84 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 728
+goal_identified
+goal_identified
+=== ep: 750, time 30.28695559501648, eps 0.0010000000000000466, right preds for atk and def: 85/85 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 729
+=== ep: 751, time 33.864887952804565, eps 0.0010000000000000443, right preds for atk and def: 93/93 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 731
+goal_identified
+=== ep: 752, time 33.35577178001404, eps 0.001000000000000042, right preds for atk and def: 101/101 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 732
+=== ep: 753, time 36.4936420917511, eps 0.0010000000000000401, right preds for atk and def: 67/67 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 733
+goal_identified
+=== ep: 754, time 33.27874970436096, eps 0.0010000000000000382, right preds for atk and def: 87/87 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 734
+goal_identified
+goal_identified
+=== ep: 755, time 38.63643169403076, eps 0.0010000000000000362, right preds for atk and def: 95/95 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 735
+goal_identified
+=== ep: 756, time 32.309481620788574, eps 0.0010000000000000345, right preds for atk and def: 86/86 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 736
+goal_identified
+goal_identified
+=== ep: 757, time 32.46774077415466, eps 0.0010000000000000328, right preds for atk and def: 65/65 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 737
+goal_identified
+=== ep: 758, time 30.189794301986694, eps 0.0010000000000000312, right preds for atk and def: 78/78 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 738
+=== ep: 759, time 32.96797204017639, eps 0.0010000000000000297, right preds for atk and def: 85/85 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 739
+=== ep: 760, time 32.65199518203735, eps 0.0010000000000000282, right preds for atk and def: 95/95 = 1.0, score_diff -4, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 740
+goal_identified
+=== ep: 761, time 32.2204864025116, eps 0.001000000000000027, right preds for atk and def: 74/74 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 741
+=== ep: 762, time 30.631542682647705, eps 0.0010000000000000256, right preds for atk and def: 71/71 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 743
+=== ep: 763, time 32.86264705657959, eps 0.0010000000000000243, right preds for atk and def: 105/105 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 744
+=== ep: 764, time 38.910221576690674, eps 0.0010000000000000232, right preds for atk and def: 76/76 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 745
+=== ep: 765, time 36.00016784667969, eps 0.001000000000000022, right preds for atk and def: 79/79 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 746
+goal_identified
+goal_identified
+=== ep: 766, time 34.975953578948975, eps 0.0010000000000000208, right preds for atk and def: 65/65 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 747
+goal_identified
+goal_identified
+=== ep: 767, time 30.64811420440674, eps 0.00100000000000002, right preds for atk and def: 100/100 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 748
+goal_identified
+=== ep: 768, time 32.264633655548096, eps 0.0010000000000000189, right preds for atk and def: 83/84 = 0.9880952380952381, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 768
+=== ep: 769, time 32.18646836280823, eps 0.001000000000000018, right preds for atk and def: 75/75 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 749
+goal_identified
+goal_identified
+=== ep: 770, time 32.18484807014465, eps 0.0010000000000000172, right preds for atk and def: 93/93 = 1.0, score_diff 2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 750
+goal_identified
+=== ep: 771, time 30.598384141921997, eps 0.0010000000000000163, right preds for atk and def: 102/102 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 751
+goal_identified
+=== ep: 772, time 32.7130663394928, eps 0.0010000000000000154, right preds for atk and def: 82/82 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 752
+goal_identified
+=== ep: 773, time 32.864420652389526, eps 0.0010000000000000148, right preds for atk and def: 93/93 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 753
+=== ep: 774, time 36.4514799118042, eps 0.0010000000000000141, right preds for atk and def: 99/99 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 754
+=== ep: 775, time 32.53999137878418, eps 0.0010000000000000132, right preds for atk and def: 75/75 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 755
+goal_identified
+=== ep: 776, time 32.78815674781799, eps 0.0010000000000000126, right preds for atk and def: 91/91 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 756
+goal_identified
+=== ep: 777, time 35.22361636161804, eps 0.0010000000000000122, right preds for atk and def: 77/77 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 757
+=== ep: 778, time 34.682745695114136, eps 0.0010000000000000115, right preds for atk and def: 57/57 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 758
+=== ep: 779, time 31.933746099472046, eps 0.0010000000000000109, right preds for atk and def: 61/61 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 759
+=== ep: 780, time 30.47174859046936, eps 0.0010000000000000104, right preds for atk and def: 65/65 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 760
+=== ep: 781, time 32.24046492576599, eps 0.00100000000000001, right preds for atk and def: 89/89 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 761
+=== ep: 782, time 33.88691568374634, eps 0.0010000000000000093, right preds for atk and def: 59/59 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 762
+=== ep: 783, time 32.84514379501343, eps 0.001000000000000009, right preds for atk and def: 78/78 = 1.0, score_diff -3, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 763
+=== ep: 784, time 35.54712390899658, eps 0.0010000000000000085, right preds for atk and def: 83/83 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 764
+goal_identified
+=== ep: 785, time 30.141544342041016, eps 0.001000000000000008, right preds for atk and def: 73/73 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 765
+=== ep: 786, time 32.669376373291016, eps 0.0010000000000000076, right preds for atk and def: 103/103 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 766
+goal_identified
+goal_identified
+=== ep: 787, time 31.67828059196472, eps 0.0010000000000000074, right preds for atk and def: 77/77 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 767
+goal_identified
+=== ep: 788, time 36.00153040885925, eps 0.001000000000000007, right preds for atk and def: 89/89 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 769
+=== ep: 789, time 33.352739334106445, eps 0.0010000000000000067, right preds for atk and def: 103/103 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 770
+goal_identified
+=== ep: 790, time 33.8347373008728, eps 0.0010000000000000063, right preds for atk and def: 93/93 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 771
+goal_identified
+=== ep: 791, time 34.07953763008118, eps 0.001000000000000006, right preds for atk and def: 113/113 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 772
+goal_identified
+=== ep: 792, time 33.999226331710815, eps 0.0010000000000000057, right preds for atk and def: 82/82 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 773
+goal_identified
+goal_identified
+=== ep: 793, time 33.8160138130188, eps 0.0010000000000000054, right preds for atk and def: 104/104 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 774
+goal_identified
+=== ep: 794, time 34.35718131065369, eps 0.0010000000000000052, right preds for atk and def: 79/79 = 1.0, score_diff 1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 775
+=== ep: 795, time 34.409746408462524, eps 0.001000000000000005, right preds for atk and def: 72/72 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 776
+=== ep: 796, time 34.682024240493774, eps 0.0010000000000000048, right preds for atk and def: 91/91 = 1.0, score_diff -2, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 777
+=== ep: 797, time 32.48672533035278, eps 0.0010000000000000044, right preds for atk and def: 108/108 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 778
+goal_identified
+=== ep: 798, time 34.73466396331787, eps 0.0010000000000000041, right preds for atk and def: 80/80 = 1.0, score_diff -1, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 779
+=== ep: 799, time 31.33106541633606, eps 0.0010000000000000041, right preds for atk and def: 91/91 = 1.0, score_diff 0, tot learning steps 10 (total env steps 3001)
+== current size of memory is eps 21 > 20 and we are deleting ep 780
